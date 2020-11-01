@@ -40,25 +40,15 @@ function ProfilePage() {
         <div className="section">
           <Container>
             <div className="button-container">
-              <Button className="btn-round" color="info" size="lg">
-                Follow
+              <Button className="btn-round" color="info" size="lg"  href="https://www.linkedin.com/in/michalwanto/" >
+                Connect
               </Button>
-              <Button
-                className="btn-round btn-icon"
-                color="default"
-                id="tooltip515203352"
-                size="lg"
-              >
-                <i className="fab fa-twitter"></i>
-              </Button>
-              <UncontrolledTooltip delay={0} target="tooltip515203352">
-                Follow me on Twitter
-              </UncontrolledTooltip>
               <Button
                 className="btn-round btn-icon"
                 color="default"
                 id="tooltip340339231"
                 size="lg"
+                href="https://www.instagram.com/michalwnt/"
               >
                 <i className="fab fa-instagram"></i>
               </Button>
@@ -68,10 +58,7 @@ function ProfilePage() {
             </div>
             <h3 className="title">About me</h3>
             <h5 className="description">
-              An artist of considerable range, Ryan — the name taken by
-              Melbourne-raised, Brooklyn-based Nick Murphy — writes, performs
-              and records all of his own music, giving it a warm, intimate feel
-              with a solid groove structure. An artist of considerable range.
+            A Business, Finance, and Tech enthusiast. Spends hours and hours reading books, watching online courses and listening to audiobooks. An analyst that's passionate about planning, analyzing, and strategizing. 
             </h5>
             <Row>
               <Col className="ml-auto mr-auto" md="6">

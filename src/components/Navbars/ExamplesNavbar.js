@@ -156,7 +156,7 @@ function ExamplesNavbar() {
               </NavItem>
               <NavItem>
                 <NavLink
-                  href="https://www.instagram.com/CreativeTimOfficial?ref=creativetim"
+                  href="https://www.instagram.com/michalwnt/"
                   target="_blank"
                   id="instagram-tooltip"
                 >
