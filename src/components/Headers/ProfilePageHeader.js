@@ -51,7 +51,7 @@ function ProfilePageHeader() {
               <p>Companies Financial Data managed</p>
             </div>
             <div className="social-description">
-              <h2>2M+</h2>
+              <h2>$10M+</h2>
               <p>Worth of Telematics Data handled</p>
             </div>
           </div>

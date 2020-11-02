@@ -58,7 +58,7 @@ function ProfilePage() {
             </div>
             <h3 className="title">About me</h3>
             <h5 className="description">
-            A Business, Finance, and Tech enthusiast. Spends hours and hours reading books, watching online courses and listening to audiobooks. An analyst that's passionate about planning, analyzing, and strategizing. 
+            A Business, Finance, and Tech enthusiast. Love reading books and listening to audiobooks. Passionate about planning, analyzing,  strategizing and solve complex problems. 
             </h5>
             <Row>
               <Col className="ml-auto mr-auto" md="6">
@@ -78,7 +78,7 @@ function ProfilePage() {
                           setPills("1");
                         }}
                       >
-                        <i className="now-ui-icons design_image"></i>
+                      <i class="fas fa-book"></i>
                       </NavLink>
                     </NavItem>
                     <NavItem>
@@ -90,7 +90,7 @@ function ProfilePage() {
                           setPills("2");
                         }}
                       >
-                        <i className="now-ui-icons location_world"></i>
+                      <i class="fas fa-briefcase"></i>
                       </NavLink>
                     </NavItem>
                     <NavItem>
@@ -102,7 +102,19 @@ function ProfilePage() {
                           setPills("3");
                         }}
                       >
-                        <i className="now-ui-icons sport_user-run"></i>
+                      <i class="far fa-folder-open"></i>
+                      </NavLink>
+                    </NavItem>
+                    <NavItem>
+                      <NavLink
+                        className={pills === "4" ? "active" : ""}
+                        href="#pablo"
+                        onClick={(e) => {
+                          e.preventDefault();
+                          setPills("4");
+                        }}
+                      >
+                      <i class="fas fa-certificate"></i>
                       </NavLink>
                     </NavItem>
                   </Nav>
@@ -111,36 +123,29 @@ function ProfilePage() {
               <TabContent className="gallery" activeTab={"pills" + pills}>
                 <TabPane tabId="pills1">
                   <Col className="ml-auto mr-auto" md="10">
-                    <Row className="collections">
-                      <Col md="6">
+                  <h3 className="ml-auto mr-auto">Education</h3>
+                  <hr style={{width:"70vw"}}></hr>
+                  <Row className="collections">
+                      <Col md="5">
                         <img
                           alt="..."
                           className="img-raised"
-                          src={require("assets/img/bg1.jpg")}
-                        ></img>
-                        <img
-                          alt="..."
-                          className="img-raised"
-                          src={require("assets/img/bg3.jpg")}
+                          src="https://primarylibrary.sgiaedu.org/template/default/assets/images/Logo.png"
+                          style={{aligntItems:"centre", width:"200px",maxHeight:"400px", marginLeft: "70px"}}
                         ></img>
                       </Col>
                       <Col md="6">
-                        <img
-                          alt="..."
-                          className="img-raised"
-                          src={require("assets/img/bg8.jpg")}
-                        ></img>
-                        <img
-                          alt="..."
-                          className="img-raised"
-                          src={require("assets/img/bg7.jpg")}
-                        ></img>
+                        <h4 style={{marginBottom:"2px"}}>SEKOLAH GLOBAL INDO-ASIA </h4>
+                        <h5 style={{marginBottom:"2px",color:"grey"}}>High School</h5>
+                        <p>2010-2016</p>
+                        <span>O-Level and A-Level courses. Coursework included Mathematics, Business Studies, Economics, Global Perspective, Bahasa Indonesia, English. Average Transcript of 85.</span>
                       </Col>
                     </Row>
                   </Col>
                 </TabPane>
                 <TabPane tabId="pills2">
                   <Col className="ml-auto mr-auto" md="10">
+                  <h3 className="ml-auto mr-auto">Experiences</h3>
                     <Row className="collections">
                       <Col md="6">
                         <img
@@ -171,6 +176,7 @@ function ProfilePage() {
                 </TabPane>
                 <TabPane tabId="pills3">
                   <Col className="ml-auto mr-auto" md="10">
+                  <h3 className="ml-auto mr-auto">Side Projects</h3>
                     <Row className="collections">
                       <Col md="6">
                         <img
@@ -194,6 +200,37 @@ function ProfilePage() {
                           alt="..."
                           className="img-raised"
                           src={require("assets/img/bg6.jpg")}
+                        ></img>
+                      </Col>
+                    </Row>
+                  </Col>
+                </TabPane>
+                <TabPane tabId="pills4">
+                  <Col className="ml-auto mr-auto" md="10">
+                  <h3 className="ml-auto mr-auto">Certificates</h3>
+                    <Row className="collections">
+                      <Col md="6">
+                        <img
+                          alt="..."
+                          className="img-raised"
+                          src={require("assets/img/bg6.jpg")}
+                        ></img>
+                        <img
+                          alt="..."
+                          className="img-raised"
+                          src={require("assets/img/bg11.jpg")}
+                        ></img>
+                      </Col>
+                      <Col md="6">
+                        <img
+                          alt="..."
+                          className="img-raised"
+                          src={require("assets/img/bg7.jpg")}
+                        ></img>
+                        <img
+                          alt="..."
+                          className="img-raised"
+                          src={require("assets/img/bg8.jpg")}
                         ></img>
                       </Col>
                     </Row>
