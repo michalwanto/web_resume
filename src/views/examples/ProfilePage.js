@@ -141,36 +141,67 @@ function ProfilePage() {
                         <span>O-Level and A-Level courses. Coursework included Mathematics, Business Studies, Economics, Global Perspective, Bahasa Indonesia, English. Average Transcript of 85.</span>
                       </Col>
                     </Row>
+                    <Row className="collections">
+                    <Col md="5">
+                    
+                        <img
+                          alt="..."
+                          className="img-raised"
+                          src={require("assets/img/SPJAIN.png")}
+                          style={{aligntItems:"centre", width:"200px",maxHeight:"400px", marginLeft: "70px"}}
+                        ></img>
+                      </Col>
+                      <Col md="6">
+                        <h4 style={{marginBottom:"2px"}}>SP JAIN SCHOOL OF GLOBAL MANAGEMENT</h4>
+                        <h5 style={{marginBottom:"2px",color:"grey"}}>University</h5>
+                        <h5 style={{marginBottom:"2px",color:"grey", fontSize:"14px"}}>Top 20 in The World : FORBES INTERNATIONAL B-SCHOOLS (2013-15)</h5>
+                        <p style={{fontSize:"14px"}}>2017 - Present</p>
+                        <span>Bachelor of Business Administration (DEANS LIST) - Three cities program; one year in Singapore, one year in Dubai, and two years in Sydney. Coursework included Cost Accounting, Digital Marketing, Employability and Practitioner Skill, Financial Market and Institution, Financial Statement Analysis, Foundations of Entrepreneurship, Human Resource Management, Business Law, Decision Making, Project Management, Australia Business Environment, Branding and Communication, Strategic Management, Business Disruptive Technology, Business English Writing, Business Oral Communication, Computer Skills, Corporate Finance, Critical Thinking, Decision Science, Emotional Intelligence, Financial Accounting, Leadership, Macroeconomics, Marketing, Mathematics, Operations Management, Organisational Behaviour, Principles of Management, Regional Immersion Project, Research Methodology, Statistics, Sustainability & Corporate Social Responsibility, World Cultures. Average GPA of 4.0
+                        </span>
+                      </Col>
+                      
+                    </Row>
                   </Col>
                 </TabPane>
                 <TabPane tabId="pills2">
                   <Col className="ml-auto mr-auto" md="10">
                   <h3 className="ml-auto mr-auto">Experiences</h3>
+                  <hr style={{width:"70vw"}}></hr>
+                  <Row className="collections">
+                      <Col md="5">
+                        <img
+                          alt="..."
+                          className="img-raised"
+                          src="https://primarylibrary.sgiaedu.org/template/default/assets/images/Logo.png"
+                          style={{aligntItems:"centre", width:"200px",maxHeight:"400px", marginLeft: "70px"}}
+                        ></img>
+                      </Col>
+                      <Col md="6">
+                        <h4 style={{marginBottom:"2px"}}>SEKOLAH GLOBAL INDO-ASIA </h4>
+                        <h5 style={{marginBottom:"2px",color:"grey"}}>High School</h5>
+                        <p>2010-2016</p>
+                        <span>O-Level and A-Level courses. Coursework included Mathematics, Business Studies, Economics, Global Perspective, Bahasa Indonesia, English. Average Transcript of 85.</span>
+                      </Col>
+                    </Row>
                     <Row className="collections">
-                      <Col md="6">
+                    <Col md="5">
+                    
                         <img
                           alt="..."
                           className="img-raised"
-                          src={require("assets/img/bg6.jpg")}
-                        ></img>
-                        <img
-                          alt="..."
-                          className="img-raised"
-                          src={require("assets/img/bg11.jpg")}
+                          src={require("assets/img/SPJAIN.png")}
+                          style={{aligntItems:"centre", width:"200px",maxHeight:"400px", marginLeft: "70px"}}
                         ></img>
                       </Col>
                       <Col md="6">
-                        <img
-                          alt="..."
-                          className="img-raised"
-                          src={require("assets/img/bg7.jpg")}
-                        ></img>
-                        <img
-                          alt="..."
-                          className="img-raised"
-                          src={require("assets/img/bg8.jpg")}
-                        ></img>
+                        <h4 style={{marginBottom:"2px"}}>SP JAIN SCHOOL OF GLOBAL MANAGEMENT</h4>
+                        <h5 style={{marginBottom:"2px",color:"grey"}}>University</h5>
+                        <h5 style={{marginBottom:"2px",color:"grey", fontSize:"14px"}}>Top 20 in The World : FORBES INTERNATIONAL B-SCHOOLS (2013-15)</h5>
+                        <p style={{fontSize:"14px"}}>2017 - Present</p>
+                        <span>Bachelor of Business Administration (DEANS LIST) - Three cities program; one year in Singapore, one year in Dubai, and two years in Sydney. Coursework included Cost Accounting, Digital Marketing, Employability and Practitioner Skill, Financial Market and Institution, Financial Statement Analysis, Foundations of Entrepreneurship, Human Resource Management, Business Law, Decision Making, Project Management, Australia Business Environment, Branding and Communication, Strategic Management, Business Disruptive Technology, Business English Writing, Business Oral Communication, Computer Skills, Corporate Finance, Critical Thinking, Decision Science, Emotional Intelligence, Financial Accounting, Leadership, Macroeconomics, Marketing, Mathematics, Operations Management, Organisational Behaviour, Principles of Management, Regional Immersion Project, Research Methodology, Statistics, Sustainability & Corporate Social Responsibility, World Cultures. Average GPA of 4.0
+                        </span>
                       </Col>
+                      
                     </Row>
                   </Col>
                 </TabPane>
