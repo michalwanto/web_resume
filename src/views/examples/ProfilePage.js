@@ -206,7 +206,7 @@ function ProfilePage() {
                       <span>Worked closely with the CEO, conducted a firm’s Target Operating Model(TOM)for its underground airport project, and prepared top management presentations for its clients, Dnata, Emirates Group, and Dubai Airport.</span>
                       <br/><br/>
                       <span>
-                      Collaborated with data analysts, engineers, and project teams in managing $20M+ worth of the vast amount of telematics data. Gathered and analyzed data & functionalities requirements from clients, applied data modeling techniques and designed workflow into a process map, investigated the data by assigning formulas, sorting, filtering, formatting, and transmuted them into charts, diagrams, and dashboards such as assets utilization matrix, fuel consumption matrix, vehicles idling time, ROI, etc. Followed by UAT(user acceptance testing) for big company’s clients, Dnata and Emirates Group.
+                      Collaborated with data analysts, engineers, and project teams in managing $10M+ worth of the vast amount of telematics data. Gathered and analyzed data & functionalities requirements from clients, applied data modeling techniques and designed workflow into a process map, investigated the data by assigning formulas, sorting, filtering, formatting, and transmuted them into charts, diagrams, and dashboards such as assets utilization matrix, fuel consumption matrix, vehicles idling time, ROI, etc. Followed by UAT(user acceptance testing) for big company’s clients, Dnata and Emirates Group.
                       </span>
                       <br/><br/>
                       <span>
