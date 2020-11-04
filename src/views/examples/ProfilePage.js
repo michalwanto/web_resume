@@ -216,7 +216,7 @@ function ProfilePage() {
                           src={require("assets/img/with_gofleetteam.JPG")}
                           style={{aligntItems:"centre", width:"200px",maxHeight:"400px", marginLeft: "70px",marginBottom:"5px"}}
                         ></img>
-                        <p style={{fontSize:"12px",marginLeft: "70px"}}>Sheraton Hotel, Dubai, UAE</p>
+                        <p style={{fontSize:"12px",marginLeft: "70px"}}>Sheraton Grand Hotel, Dubai, UAE</p>
                       </Col>
                       <Col md="6">
                       <h4 style={{marginBottom:"2px"}}>GOFLEET INTERNATIONAL</h4>
