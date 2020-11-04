@@ -207,6 +207,12 @@ function ProfilePage() {
                         <img
                           alt="..."
                           className="img-raised"
+                          src={require("assets/img/with_team.png")}
+                          style={{aligntItems:"centre", width:"200px",maxHeight:"400px", marginLeft: "70px",marginBottom:"5px"}}
+                        ></img>
+                        <img
+                          alt="..."
+                          className="img-raised"
                           src={require("assets/img/with_gofleetteam.JPG")}
                           style={{aligntItems:"centre", width:"200px",maxHeight:"400px", marginLeft: "70px",marginBottom:"5px"}}
                         ></img>
