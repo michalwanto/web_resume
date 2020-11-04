@@ -62,7 +62,7 @@ function ProfilePage() {
             </h5>
             <Row>
               <Col className="ml-auto mr-auto" md="6">
-                <h4 className="title text-center">My Portfolio</h4>
+                <h4 className="title text-center">My Background</h4>
                 <div className="nav-align-center">
                   <Nav
                     className="nav-pills-info nav-pills-just-icons"
@@ -175,6 +175,13 @@ function ProfilePage() {
                           src={require("assets/img/IFASHIONGROUP.png")}
                           style={{aligntItems:"centre", width:"200px",maxHeight:"400px", marginLeft: "70px"}}
                         ></img>
+                        <img
+                          alt="..."
+                          className="img-raised"
+                          src={require("assets/img/with_Leon.JPG")}
+                          style={{aligntItems:"centre", width:"200px",maxHeight:"400px", marginLeft: "70px",marginBottom:"5px"}}
+                        ></img>
+                        <p style={{fontSize:"12px",marginLeft: "70px"}}>15 Shaw Road, Singapore</p>
                       </Col>
                       <Col style={{marginBottom:"50px"}} md="6">
                         <h4 style={{marginBottom:"2px"}}>IFASHION GROUP </h4>
@@ -197,6 +204,13 @@ function ProfilePage() {
                           src={require("assets/img/GOFLEETINT.png")}
                           style={{aligntItems:"centre", width:"200px",maxHeight:"400px", marginLeft: "70px"}}
                         ></img>
+                        <img
+                          alt="..."
+                          className="img-raised"
+                          src={require("assets/img/with_gofleetteam.JPG")}
+                          style={{aligntItems:"centre", width:"200px",maxHeight:"400px", marginLeft: "70px",marginBottom:"5px"}}
+                        ></img>
+                        <p style={{fontSize:"12px",marginLeft: "70px"}}>Sheraton Hotel, Dubai, UAE</p>
                       </Col>
                       <Col md="6">
                       <h4 style={{marginBottom:"2px"}}>GOFLEET INTERNATIONAL</h4>
@@ -206,7 +220,7 @@ function ProfilePage() {
                       <span>Worked closely with the CEO, conducted a firm’s Target Operating Model(TOM)for its underground airport project, and prepared top management presentations for its clients, Dnata, Emirates Group, and Dubai Airport.</span>
                       <br/><br/>
                       <span>
-                      Collaborated with data analysts, engineers, and project teams in managing $10M+ worth of the vast amount of telematics data. Gathered and analyzed data & functionalities requirements from clients, applied data modeling techniques and designed workflow into a process map, investigated the data by assigning formulas, sorting, filtering, formatting, and transmuted them into charts, diagrams, and dashboards such as assets utilization matrix, fuel consumption matrix, vehicles idling time, ROI, etc. Followed by UAT(user acceptance testing) for big company’s clients, Dnata and Emirates Group.
+                      Collaborated with data analysts, engineers, and project teams in managing $10M+ worth of the vast amount of telematics data. Gathered and analyzed data & functionalities requirements from clients, applied data modeling techniques and designed workflow into a process map, investigated the data by assigning formulas, sorting, filtering, formatting, and transmuted them into charts, diagrams, and dashboards (Excel & Power BI) such as assets utilization matrix, fuel consumption matrix, vehicles idling time, ROI, etc. Followed by UAT(user acceptance testing) for big company’s clients, Dnata and Emirates Group.
                       </span>
                       <br/><br/>
                       <span>
@@ -229,9 +243,9 @@ function ProfilePage() {
                   </Col>
                 </TabPane>
                 <TabPane tabId="pills3">
-                  <Col className="ml-auto mr-auto" md="10">
-                  <h3 className="ml-auto mr-auto">Side Projects</h3>
-                    <Row className="collections">
+                <Col className="ml-auto mr-auto" md="10">
+                <h3 className="ml-auto mr-auto">Projects</h3>
+                <Row className="collections">
                       <Col md="6">
                         <img
                           alt="..."
@@ -257,38 +271,10 @@ function ProfilePage() {
                         ></img>
                       </Col>
                     </Row>
-                  </Col>
+                </Col>
                 </TabPane>
                 <TabPane tabId="pills4">
-                  <Col className="ml-auto mr-auto" md="10">
-                  <h3 className="ml-auto mr-auto">Certificates</h3>
-                    <Row className="collections">
-                      <Col md="6">
-                        <img
-                          alt="..."
-                          className="img-raised"
-                          src={require("assets/img/bg6.jpg")}
-                        ></img>
-                        <img
-                          alt="..."
-                          className="img-raised"
-                          src={require("assets/img/bg11.jpg")}
-                        ></img>
-                      </Col>
-                      <Col md="6">
-                        <img
-                          alt="..."
-                          className="img-raised"
-                          src={require("assets/img/bg7.jpg")}
-                        ></img>
-                        <img
-                          alt="..."
-                          className="img-raised"
-                          src={require("assets/img/bg8.jpg")}
-                        ></img>
-                      </Col>
-                    </Row>
-                  </Col>
+                  
                 </TabPane>
               </TabContent>
             </Row>
