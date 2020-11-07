@@ -39,7 +39,7 @@ function ProfilePageHeader() {
             <img alt="..." src="https://i.ibb.co/pL6P4t4/Visa-pict.jpg"></img>
           </div>
           <h3 className="title">Michal Wanto</h3>
-          <p className="category">Financial and Bussiness Analyst</p>
+          <p className="category">Financial, Bussiness and Data Analyst</p>
           <div className="content">
             <div className="social-description">
               <h2>1st</h2>

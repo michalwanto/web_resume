@@ -256,24 +256,25 @@ function ProfilePage() {
                         <img
                           alt="..."
                           className="img-raised"
-                          src= {require("assets/img/bg3.jpg")}
+                          src= "https://i.ibb.co/WtZPZgM/PowerBI.png"
                         ></img>
                         <img
                           alt="..."
                           className="img-raised"
-                          src={require("assets/img/bg8.jpg")}
+                          src="https://i.ibb.co/xSGhWdj/Modelling-DAX.png"
                         ></img>
+
                       </Col>
                       <Col md="6">
                         <img
                           alt="..."
                           className="img-raised"
-                          src={require("assets/img/bg7.jpg")}
+                          src="https://i.ibb.co/1r79nK2/Computer-Vision.png"
                         ></img>
                         <img
                           alt="..."
                           className="img-raised"
-                          src={require("assets/img/bg6.jpg")}
+                          src="https://i.ibb.co/w4cpcj2/Robofriends.png"
                         ></img>
                       </Col>
                     </Row>
@@ -309,6 +310,17 @@ function ProfilePage() {
                         className="img-raised"
                         src="https://i.ibb.co/hMyDmGD/WASME.png"
                       ></img>
+                      <img
+                        alt="..."
+                        className="img-raised"
+                        src="https://i.ibb.co/JCCxrZr/RIP.png"
+                      ></img>
+                      <img
+                        alt="..."
+                        className="img-raised"
+                        src="https://i.ibb.co/NtVHsz6/RIP2.png"
+                      ></img>
+
                       
                       
                     </Col>
