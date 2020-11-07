@@ -226,7 +226,7 @@ function ProfilePage() {
                       <span>Worked closely with the CEO, conducted a firm’s Target Operating Model(TOM)for its underground airport project, and prepared top management presentations for its clients, Dnata, Emirates Group, and Dubai Airport.</span>
                       <br/><br/>
                       <span>
-                      Collaborated with data analysts, engineers, and project teams in managing $10M+ worth of the vast amount of telematics data. Gathered and analyzed data & functionalities requirements from clients, applied data modeling techniques and designed workflow into a process map, investigated the data by assigning formulas, sorting, filtering, formatting, and transmuted them into charts, diagrams, and dashboards (Excel & Power BI) such as assets utilization matrix, fuel consumption matrix, vehicles idling time, ROI, etc. Followed by UAT(user acceptance testing) for big company’s clients, Dnata and Emirates Group.
+                      Collaborated with data analysts, engineers, and project teams in managing $10M+ worth of the vast amount of telematics data. Gathered and analyzed data & functionalities requirements from clients, applied data modeling techniques and designed workflow into a process map, investigated the data by assigning formulas, sorting, filtering, formatting, and transmuted them into charts, diagrams, and dashboards such as assets utilization matrix, fuel consumption matrix, vehicles idling time, ROI, etc. Followed by UAT(user acceptance testing) for big company’s clients, Dnata and Emirates Group.
                       </span>
                       <br/><br/>
                       <span>
@@ -256,7 +256,7 @@ function ProfilePage() {
                         <img
                           alt="..."
                           className="img-raised"
-                          src={require("assets/img/bg3.jpg")}
+                          src= {require("assets/img/bg3.jpg")}
                         ></img>
                         <img
                           alt="..."
@@ -280,7 +280,45 @@ function ProfilePage() {
                 </Col>
                 </TabPane>
                 <TabPane tabId="pills4">
-                  
+                <Col className="ml-auto mr-auto" md="10">
+                <h3 className="ml-auto mr-auto">Certificates</h3>
+                  <Row className="collections">
+                    <Col md="6">
+                      <img
+                        alt="..."
+                        className="img-raised"
+                        src="https://i.ibb.co/syR73jy/AI-IBM.png"
+                      ></img>
+                      <img
+                        alt="..."
+                        className="img-raised"
+                        src="https://i.ibb.co/449zZ3q/Business-Strategy.png"
+                      ></img>
+                      <img
+                        alt="..."
+                        className="img-raised"
+                        src="https://i.ibb.co/vmvJYJQ/UI-UX.png"
+                      ></img>
+                    </Col>
+                    <Col md="6">
+                      <img
+                        alt="..."
+                        className="img-raised"
+                        src="https://i.ibb.co/2ZB84hQ/Future-Thinking.png"
+                      ></img>
+                      <img
+                        alt="..."
+                        className="img-raised"
+                        src="https://i.ibb.co/nrYnqYh/Complete-React-Development.png"
+                      ></img>
+                      <img
+                        alt="..."
+                        className="img-raised"
+                        src="https://i.ibb.co/rQk645z/Complete-junior-to-senior-developer-2020.png"
+                      ></img>
+                    </Col>
+                  </Row>
+                </Col>
                 </TabPane>
               </TabContent>
             </Row>

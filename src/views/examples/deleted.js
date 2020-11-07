@@ -53,32 +53,32 @@
 //                     </Row>
 //                   </Col>
 
-// <Col className="ml-auto mr-auto" md="10">
-//                   <h3 className="ml-auto mr-auto">Certificates</h3>
-//                     <Row className="collections">
-//                       <Col md="6">
-//                         <img
-//                           alt="..."
-//                           className="img-raised"
-//                           src={require("assets/img/bg6.jpg")}
-//                         ></img>
-//                         <img
-//                           alt="..."
-//                           className="img-raised"
-//                           src={require("assets/img/bg11.jpg")}
-//                         ></img>
-//                       </Col>
-//                       <Col md="6">
-//                         <img
-//                           alt="..."
-//                           className="img-raised"
-//                           src={require("assets/img/bg7.jpg")}
-//                         ></img>
-//                         <img
-//                           alt="..."
-//                           className="img-raised"
-//                           src={require("assets/img/bg8.jpg")}
-//                         ></img>
-//                       </Col>
-//                     </Row>
-//                   </Col>
+                // <Col className="ml-auto mr-auto" md="10">
+                //   <h3 className="ml-auto mr-auto">Certificates</h3>
+                //     <Row className="collections">
+                //       <Col md="6">
+                //         <img
+                //           alt="..."
+                //           className="img-raised"
+                //           src={require("assets/img/bg6.jpg")}
+                //         ></img>
+                //         <img
+                //           alt="..."
+                //           className="img-raised"
+                //           src={require("assets/img/bg11.jpg")}
+                //         ></img>
+                //       </Col>
+                //       <Col md="6">
+                //         <img
+                //           alt="..."
+                //           className="img-raised"
+                //           src={require("assets/img/bg7.jpg")}
+                //         ></img>
+                //         <img
+                //           alt="..."
+                //           className="img-raised"
+                //           src={require("assets/img/bg8.jpg")}
+                //         ></img>
+                //       </Col>
+                //     </Row>
+                //   </Col>
