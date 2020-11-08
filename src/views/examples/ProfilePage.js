@@ -258,13 +258,17 @@ function ProfilePage() {
                 <h3 className="ml-auto mr-auto">Projects</h3>
                 <Row className="collections">
                       <Col md="6">
+                      <div style={{marginBottom:"20px"}}>
                       <Tilt className="Tilt" options={{ max : 25 }}  >
                         <img
                           alt="..."
                           className="img-raised"
                           src= "https://i.ibb.co/WtZPZgM/PowerBI.png"
+                          style={{marginBottom:"10px"}}
                         ></img>
                         </Tilt>
+                        <span>Power BI dashboard that shows high-level picture of budget, sales, and variance across different correlations</span>
+                        </div>
                         <Tilt className="Tilt" options={{ max : 25 }}  >
                         <img
                           alt="..."
