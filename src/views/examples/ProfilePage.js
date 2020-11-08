@@ -19,6 +19,11 @@ import ExamplesNavbar from "components/Navbars/ExamplesNavbar.js";
 import ProfilePageHeader from "components/Headers/ProfilePageHeader.js";
 import DefaultFooter from "components/Footers/DefaultFooter.js";
 
+//Tilt Component 
+import Tilt from 'react-tilt'
+ 
+
+
 function ProfilePage() {
   const [pills, setPills] = React.useState("2");
   React.useEffect(() => {
@@ -253,29 +258,46 @@ function ProfilePage() {
                 <h3 className="ml-auto mr-auto">Projects</h3>
                 <Row className="collections">
                       <Col md="6">
+                      <Tilt className="Tilt" options={{ max : 25 }}  >
                         <img
                           alt="..."
                           className="img-raised"
                           src= "https://i.ibb.co/WtZPZgM/PowerBI.png"
                         ></img>
+                        </Tilt>
+                        <Tilt className="Tilt" options={{ max : 25 }}  >
                         <img
                           alt="..."
                           className="img-raised"
                           src="https://i.ibb.co/xSGhWdj/Modelling-DAX.png"
+                          style={{marginBottom:"0"}}
                         ></img>
-
+                        </Tilt>
                       </Col>
                       <Col md="6">
+                      <div style={{marginBottom:"20px"}}>
+                      <a href="https://smart-brain-front-end1.herokuapp.com/">
+                      <Tilt className="Tilt" options={{ max : 25 }}  >
                         <img
                           alt="..."
                           className="img-raised"
                           src="https://i.ibb.co/1r79nK2/Computer-Vision.png"
+                          style={{marginBottom:"5px"}}
                         ></img>
+                        </Tilt>
+                        </a>
+                        <span>Web App that uses Clarifai Computer Vision API, it detects faces in any pictures uploaded</span>
+                        </div>
+                        
+                        <a href="https://michalwanto.github.io/robofriends/">
+                        <Tilt className="Tilt" options={{ max : 25 }}  >
                         <img
                           alt="..."
                           className="img-raised"
                           src="https://i.ibb.co/w4cpcj2/Robofriends.png"
                         ></img>
+                        </Tilt>
+                        </a>
                       </Col>
                     </Row>
                 </Col>
@@ -356,7 +378,21 @@ function ProfilePage() {
                         className="img-raised"
                         src="https://i.ibb.co/t8kTNQg/Adobe-Photoshop-CC.png"
                       ></img>
-                      
+                      <img
+                        alt="..."
+                        className="img-raised"
+                        src="https://i.ibb.co/Z2YFG1m/Twinmotion-3-D.png"
+                      ></img>
+                      <img
+                        alt="..."
+                        className="img-raised"
+                        src="https://i.ibb.co/8cHzfBQ/Figma-UI-UX.png"
+                      ></img>
+                      <img
+                        alt="..."
+                        className="img-raised"
+                        src="https://i.ibb.co/MpsqgHg/Tableau.png"
+                      ></img>
                       <img
                         alt="..."
                         className="img-raised"
@@ -364,11 +400,6 @@ function ProfilePage() {
                       ></img>
                       
                       
-                      <img
-                        alt="..."
-                        className="img-raised"
-                        src="https://i.ibb.co/MpsqgHg/Tableau.png"
-                      ></img>
                       <img
                         alt="..."
                         className="img-raised"
