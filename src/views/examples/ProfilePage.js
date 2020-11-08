@@ -286,7 +286,7 @@ function ProfilePage() {
                         ></img>
                         </Tilt>
                         </a>
-                        <span>Web App that uses Clarifai Computer Vision API, it detects faces in any pictures uploaded</span>
+                        <span>Web App that uses Clarifai Computer Vision API, it detects faces in any picture uploaded</span>
                         </div>
                         
                         <a href="https://michalwanto.github.io/robofriends/">
