@@ -298,6 +298,17 @@ function ProfilePage() {
                       <img
                         alt="..."
                         className="img-raised"
+                        src="https://i.ibb.co/yyTKMTw/Web-Development-Bootcamp.png"
+                      ></img>
+                      <img
+                        alt="..."
+                        className="img-raised"
+                        src="https://i.ibb.co/pKtPXdj/Three-Js-Web-Development.png"
+                      ></img>
+                      
+                      <img
+                        alt="..."
+                        className="img-raised"
                         src="https://i.ibb.co/vmvJYJQ/UI-UX.png"
                       ></img>
                       <img
@@ -325,6 +336,11 @@ function ProfilePage() {
                       
                     </Col>
                     <Col md="6">
+                    <img
+                        alt="..."
+                        className="img-raised"
+                        src="https://i.ibb.co/Nng4WVz/Data-Analysis-and-Visualization.png"
+                      ></img>
                       <img
                         alt="..."
                         className="img-raised"
@@ -338,8 +354,16 @@ function ProfilePage() {
                       <img
                         alt="..."
                         className="img-raised"
+                        src="https://i.ibb.co/t8kTNQg/Adobe-Photoshop-CC.png"
+                      ></img>
+                      
+                      <img
+                        alt="..."
+                        className="img-raised"
                         src="https://i.ibb.co/rQk645z/Complete-junior-to-senior-developer-2020.png"
                       ></img>
+                      
+                      
                       <img
                         alt="..."
                         className="img-raised"
