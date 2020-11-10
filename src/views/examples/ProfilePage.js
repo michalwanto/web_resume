@@ -274,9 +274,22 @@ function ProfilePage() {
                           alt="..."
                           className="img-raised"
                           src="https://i.ibb.co/xSGhWdj/Modelling-DAX.png"
-                          style={{marginBottom:"0"}}
+                          
                         ></img>
                         </Tilt>
+                        <div style={{marginBottom:"20px"}}>
+                       <Tilt className="Tilt" options={{ max : 25 }}  >
+                        <img
+                          alt="..."
+                          className="img-raised"
+                          src= "https://i.ibb.co/9VbvW2g/Prediction-Model-of-Housing-Price.png"
+                          style={{marginBottom:"10px"}}
+                        ></img>
+                        </Tilt>
+                        <span>Prediction Model of Housing Price by finding association and correlations of MEDV - median value of owner-occupied homes and RM - Number of Rooms using sample of properties data in BOSTON (Using Python - Libraries: Pandas,  statsmodels.formula.api and matplot) </span>
+                        </div>
+                        
+                        
                       </Col>
                       <Col md="6">
                       <div style={{marginBottom:"20px"}}>
@@ -290,7 +303,7 @@ function ProfilePage() {
                         ></img>
                         </Tilt>
                         </a>
-                        <span>Web App that uses Clarifai Computer Vision API, it detects faces in any picture uploaded</span>
+                        <span>Web App that uses Clarifai Computer Vision API, it detects faces in any picture uploaded (using React, NodeJs, postgreSQL)</span>
                         </div>
                         
                         <a href="https://michalwanto.github.io/robofriends/">
