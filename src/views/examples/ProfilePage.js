@@ -282,7 +282,7 @@ function ProfilePage() {
                         <img
                           alt="..."
                           className="img-raised"
-                          src= "https://i.ibb.co/9VbvW2g/Prediction-Model-of-Housing-Price.png"
+                          src= "https://i.ibb.co/s9GMsk0/Prediction-Model-of-Housing-Price.png"
                           style={{marginBottom:"10px"}}
                         ></img>
                         </Tilt>
