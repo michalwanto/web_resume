@@ -324,11 +324,11 @@ function ProfilePage() {
                 <h3 className="ml-auto mr-auto">Certificates</h3>
                   <Row className="collections">
                     <Col md="6">
-                      <img
-                        alt="..."
-                        className="img-raised"
-                        src="https://i.ibb.co/syR73jy/AI-IBM.png"
-                      ></img>
+                    <img
+                    alt="..."
+                    className="img-raised"
+                    src="https://i.ibb.co/DgtbnC1/Python-and-Statistics-for-Financial-Analysis.png"
+                  ></img>
                       <img
                         alt="..."
                         className="img-raised"
@@ -375,6 +375,11 @@ function ProfilePage() {
                       
                     </Col>
                     <Col md="6">
+                    <img
+                        alt="..."
+                        className="img-raised"
+                        src="https://i.ibb.co/syR73jy/AI-IBM.png"
+                      ></img>
                     <img
                         alt="..."
                         className="img-raised"
