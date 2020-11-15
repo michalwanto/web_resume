@@ -183,7 +183,7 @@ function ProfilePage() {
                         <img
                           alt="..."
                           className="img-raised"
-                          src={require("assets/img/with_Leon.JPG")}
+                          src="https://i.ibb.co/8XSHc8Z/with-Leon.jpg"
                           style={{aligntItems:"centre", width:"200px",maxHeight:"400px", marginLeft: "70px",marginBottom:"5px"}}
                         ></img>
                         <p style={{fontSize:"12px",marginLeft: "70px"}}>15 Shaw Road, Singapore</p>
@@ -191,12 +191,17 @@ function ProfilePage() {
                       <Col style={{marginBottom:"50px"}} md="6">
                         <h4 style={{marginBottom:"2px"}}>IFASHION GROUP </h4>
                         <h5 style={{marginBottom:"2px",color:"grey"}}>Finance Intern</h5>
-                        <p style={{marginBottom:"2px",fontSize:"13px"}}>May 2018 - Aug 2018</p>
+                        <p style={{marginBottom:"2px",fontSize:"13px"}}>May 2018 - Sep 2018</p>
                         <p style={{fontSize:"12px"}}>Singapore</p>
-                        <span>Worked closely with CFO in managing financial data, ad-hoc entries, bank reconciliation, account receivables & payables reconciliation, and invoicing(through Xero accounting platform), this includes recording and data entry in Xero, analyzing exported data in excel using macros, pivot tables, V-lookup, conditional formatting, etc. Involved in preparing the company’s FP&A, credit risk management & modeling, margin analysis , fixing HR handbook in term of policies, regulations, and procedures for the company’s subsidiaries that operate across Southeast Asian countries from Indonesia, Vietnam, Thailand, Malaysia, Laos, to Singapore and present it to the internal stakeholders suggesting ways in improving its subsidiaries daily operations, protocols, documentation, financial control & management and HR coordination.</span>
+                        <span>Worked closely with CFO in managing and analyzing newest and past financial data, looking at financial performance and identifying trends, ensure accurate financial reporting through bank reconciliation, account receivables & payables reconciliation(through Xero accounting platform), ad-hoc entries, and finalizing the exported data in Excel using macros, pivot tables, V-lookup, conditional formatting, etc..</span>
                         <br></br>
                         <br></br>
-                        <span >Managed $1M+ worth of Inventories Data of its four subsidiary companies (Dressabelle, Invade, Red Republics, and Megafash). Gathering missing data, cleansing of data, analyzing data, designing and formulating charts, diagrams, dashboards, and provide key metrics and recommendations to the CFO.</span>
+                        <span >Worked closely with the finance team, forming FP&A, consulting with the management team to develop long-term commercial plan, evaluate financial performance by comparing and analyzing actual results with plans and forecasts, aid in the capital budgeting and expenditure planning processes, suggesting budgets and improvements based on insights gathered, exploring different investment opportunities, perform market research, data mining, business intelligence, and valuation comps, developing financial models and providing financial forecast, developing initiatives and policies that may improve financial growth, guide the cost analysis process by establishing and enforcing policies and procedures, conduct comparable company analysis to support internal financial analysis, preparing report which include key metrics, financial result , variance analysis and communicating insights to the senior management of the company and its subsidiaries companies that are operating across Southeast Asian countries (Indonesia, Vietnam, Thailand, Malaysia, Laos, and Singapore). 
+                        </span>
+                        <br></br>
+                        <br></br>
+                        <span >Managed $10M+ worth of Financial and Inventories Data of its four subsidiary companies, Dressabelle(Women Fashion), Invade(Office Space Provider), Red Republics(Event Organiser), and Megafash(Retail). Gathering missing data, cleansing of data, analyzing data, designing models and formulating charts, diagrams, dashboards(using Excel & Power BI), and present key metrics and recommendations to the CFO.
+                        </span>
                       </Col>
                     </Row>
                     <hr></hr>
@@ -226,28 +231,29 @@ function ProfilePage() {
                       <Col md="6">
                       <h4 style={{marginBottom:"2px"}}>GOFLEET INTERNATIONAL</h4>
                       <h5 style={{marginBottom:"2px",color:"grey"}}>Management Trainee</h5>
-                      <p style={{marginBottom:"2px",fontSize:"13px"}}>May 2019 - Aug 2019</p>
+                      <p style={{marginBottom:"2px",fontSize:"13px"}}>May 2019 - Sep 2019</p>
                       <p style={{fontSize:"12px"}}>Dubai, UAE</p>
-                      <span>Worked closely with the CEO, conducted a firm’s Target Operating Model(TOM)for its underground airport project, and prepared top management presentations for its clients, Dnata, Emirates Group, and Dubai Airport.</span>
-                      <br/><br/>
-                      <span>
-                      Collaborated with data analysts, engineers, and project teams in managing $10M+ worth of the vast amount of telematics data. Gathered and analyzed data & functionalities requirements from clients, applied data modeling techniques and designed workflow into a process map, investigated the data by assigning formulas, sorting, filtering, formatting, and transmuted them into charts, diagrams, and dashboards such as assets utilization matrix, fuel consumption matrix, vehicles idling time, ROI, etc. Followed by UAT(user acceptance testing) for big company’s clients, Dnata and Emirates Group.
+                      <span>Worked closely with the CEO, conducted a firm’s Target Operating Model(TOM)for its underground airport project, and prepared top management presentations for its clients, Dnata, Emirates Group, and Dubai Airport.
                       </span>
                       <br/><br/>
                       <span>
-                      Team up with senior engineers in scheduling project operational tasks by mapping and assigning resources for a range of tasks in meeting target dates. Formulated charts, Power BI and utilize management tools like Gantt chart to keep track and inform the project progress among stakeholders.
+                      Collaborated with data analysts, engineers, and project teams in managing $20M+ worth of the vast amount of telematics data. Gathered and analyzed data & functionalities requirements from clients, applied data modeling techniques and designed workflow into a process map (using Visio), investigated the data by assigning formulas, sorting, filtering, formatting, and transmuted them into charts, diagrams, and dashboards such as assets utilization matrix, fuel consumption matrix, vehicles idling time, ROI, etc. Followed by UAT(user acceptance testing) for the company’s clients, Dnata and Emirates Group. 
                       </span>
                       <br/><br/>
                       <span>
-                      Worked together with project manager in mapping and designing workflow of product integration and product introduction to stakeholders for Dubai Airport Underground Project.
+                      Team up with senior engineers in scheduling project operational tasks by managing and assigning competing resources and priorities for a range of tasks to meet targeted dates and cost efficiency benchmark. Prepared controls and improved procedures, formulated charts ( Power BI), utilize management tools like Gantt chart to monitor deliverables and ensure timely completion of projects (meeting milestones), perform weekly and monthly reviews and analyses of current processes using operational metrics and reports. Conducted insightful, ad hoc analyses to investigate ongoing or one-time operational issues, and inform project progress across stakeholders.
                       </span>
                       <br/><br/>
                       <span>
-                      Conducted $300,000 worth of primary and secondary market research on the feasibility and viability of electric bikes in Dubai as a mode of delivery in the F&B sector. Coming up with entry strategy, competitive market analysis, and the possibility of the firm's diversification of its strategic breadth to the internal stakeholders.
+                      Worked together with project manager in determining business objectives, evaluating business processes, performing requirements analysis, mapping and designing workflow chart and diagrams of product integration and product introduction (Visio), conduct and coordinate financial, product, market, operational, and related research to support strategic and business planning within the various departments and programs of the client group, uncovering areas for improvement, developing project plans, leading ongoing reviews of business processes and developing optimization strategies, ensuring solutions meet business needs and requirements, communicating insights and plans to cross-functional team members, management and other stakeholders for the company’s Dubai Airport Underground Project.
                       </span>
                       <br/><br/>
                       <span>
-                      Redesigning the company’s profile deck, website UI/UX, and brochures. Arranging Excel and PowerPoint training for the junior team. Involved in hiring, preparing tests, and selecting new potential candidates along with the HR manager and the CEO.</span>
+                      Conducted primary and secondary market research on the feasibility and viability of electric bikes in Dubai as a mode of delivery in the F&B sector. Interpret, evaluate and interrelate research data and develop integrated business analyses and projections for incorporation into strategic decision-making, these include coming up with entry strategy, competitive market analysis, tactics, functional strategies, business strategies, and corporate strategies and present findings to the internal stakeholders.
+                      </span>
+                      <br/><br/>
+                      <span>
+                      Redesigning the company’s profile deck, website UI/UX, and brochures. Arranging Excel and PowerPoint training for the junior team. Involved in hiring, preparing tests, and selecting new potential candidates alongside the HR manager and the CEO.</span>
                       </Col>
                       
                     </Row>
