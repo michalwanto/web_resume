@@ -83,7 +83,7 @@ function ProfilePage() {
                           setPills("1");
                         }}
                       >
-                      <i class="fas fa-book"></i>
+                      <i class="fas fa-graduation-cap"></i>
                       </NavLink>
                     </NavItem>
                     <NavItem>
@@ -120,6 +120,18 @@ function ProfilePage() {
                         }}
                       >
                       <i class="fas fa-certificate"></i>
+                      </NavLink>
+                    </NavItem>
+                    <NavItem>
+                      <NavLink
+                        className={pills === "5" ? "active" : ""}
+                        href="#pablo"
+                        onClick={(e) => {
+                          e.preventDefault();
+                          setPills("5");
+                        }}
+                      >
+                      <i class="fas fa-book"></i>
                       </NavLink>
                     </NavItem>
                   </Nav>
@@ -275,6 +287,7 @@ function ProfilePage() {
                         </Tilt>
                         <span>Power BI dashboard that shows high-level picture of budget, sales, and variance across different correlations</span>
                         </div>
+                        <div style={{marginBottom:"20px"}}>
                         <Tilt className="Tilt" options={{ max : 25 }}  >
                         <img
                           alt="..."
@@ -283,6 +296,8 @@ function ProfilePage() {
                           
                         ></img>
                         </Tilt>
+                        <span>Data Modelling using Data Analysis Expressions(DAX) from Power BI - connecting different sources of data  - </span>
+                        </div>
                         <div style={{marginBottom:"20px"}}>
                        <Tilt className="Tilt" options={{ max : 25 }}  >
                         <img
@@ -294,8 +309,6 @@ function ProfilePage() {
                         </Tilt>
                         <span>Prediction Model of Housing Price by finding association and correlations of MEDV - median value of owner-occupied homes and RM - Number of Rooms using sample of properties data in BOSTON (Using Python - Libraries: Pandas,  statsmodels.formula.api and matplot) </span>
                         </div>
-                        
-                        
                       </Col>
                       <Col md="6">
                       <div style={{marginBottom:"20px"}}>
@@ -311,7 +324,7 @@ function ProfilePage() {
                         </a>
                         <span>Web App that uses Clarifai Computer Vision API, it detects faces in any picture uploaded (using React, NodeJs, postgreSQL)</span>
                         </div>
-                        
+                        <div style={{marginBottom:"20px"}}>
                         <a href="https://michalwanto.github.io/robofriends/">
                         <Tilt className="Tilt" options={{ max : 25 }}  >
                         <img
@@ -321,6 +334,18 @@ function ProfilePage() {
                         ></img>
                         </Tilt>
                         </a>
+                        <span> Basic web application the uses React, React Redux, Hooks, bootstrap card component, etc. </span>
+                        </div>
+                        <div style={{marginBottom:"20px"}}>
+                        <Tilt className="Tilt" options={{ max : 25 }}  >
+                        <img
+                          alt="..."
+                          className="img-raised"
+                          src="https://i.ibb.co/KmC1rbZ/Python-Statistics-Financial-Model-Correlations.png"
+                        ></img>
+                        </Tilt>
+                        <span> Generate Scatter Matrix of all stock markets and observe association</span>
+                        </div>
                       </Col>
                     </Row>
                 </Col>
@@ -376,9 +401,6 @@ function ProfilePage() {
                         className="img-raised"
                         src="https://i.ibb.co/NtVHsz6/RIP2.png"
                       ></img>
-
-                      
-                      
                     </Col>
                     <Col md="6">
                     <img
@@ -426,8 +448,6 @@ function ProfilePage() {
                         className="img-raised"
                         src="https://i.ibb.co/rQk645z/Complete-junior-to-senior-developer-2020.png"
                       ></img>
-                      
-                      
                       <img
                         alt="..."
                         className="img-raised"
@@ -438,6 +458,29 @@ function ProfilePage() {
                         className="img-raised"
                         src="https://i.ibb.co/y5DWDTh/SME.png"
                       ></img>
+                    </Col>
+                  </Row>
+                </Col>
+                </TabPane>
+                <TabPane tabId="pills5">
+                <Col className="ml-auto mr-auto" md="10">
+                <h3 className="ml-auto mr-auto">Books or Audiobooks</h3>
+                <span>Collections of read books and notes</span>
+                  <Row className="collections">
+                    <Col md="6">
+                    <img
+                    alt="..."
+                    className="img-raised"
+                    src="https://i.ibb.co/DgtbnC1/Python-and-Statistics-for-Financial-Analysis.png"
+                  ></img>
+                    </Col>
+                    <Col md="6">
+                    <img
+                        alt="..."
+                        className="img-raised"
+                        src="https://i.ibb.co/syR73jy/AI-IBM.png"
+                      ></img>
+                    
                     </Col>
                   </Row>
                 </Col>
