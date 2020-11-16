@@ -366,6 +366,11 @@ function ProfilePage() {
                         src="https://i.ibb.co/449zZ3q/Business-Strategy.png"
                       ></img>
                       <img
+                      alt="..."
+                      className="img-raised"
+                      src="https://i.ibb.co/qjh2q47/Exploring-Data-for-Business-Decision.png"
+                    ></img>
+                      <img
                         alt="..."
                         className="img-raised"
                         src="https://i.ibb.co/yyTKMTw/Web-Development-Bootcamp.png"
