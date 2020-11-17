@@ -45,5 +45,8 @@
   },
   "optionalDependencies": {
     "typescript": "3.9.5"
+  },
+  "devDependencies": {
+    "eslint-plugin-react-hooks": "^4.2.0"
   }
 }

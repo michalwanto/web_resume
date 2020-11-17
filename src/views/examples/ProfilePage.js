@@ -21,6 +21,12 @@ import DefaultFooter from "components/Footers/DefaultFooter.js";
 
 //Tilt Component 
 import Tilt from 'react-tilt'
+
+//BookCard
+import BookCard from "../../components/Books/BookCard.jsx"
+
+//BookData
+import BookData from "../../components/Books/BookData"
  
 
 
@@ -83,7 +89,7 @@ function ProfilePage() {
                           setPills("1");
                         }}
                       >
-                      <i class="fas fa-graduation-cap"></i>
+                      <i className="fas fa-graduation-cap"></i>
                       </NavLink>
                     </NavItem>
                     <NavItem>
@@ -471,21 +477,9 @@ function ProfilePage() {
                 <Col className="ml-auto mr-auto" md="10">
                 <h3 className="ml-auto mr-auto">Books or Audiobooks</h3>
                   <Row className="collections">
-                    <Col md="6">
-                    <img
-                    alt="..."
-                    className="img-raised"
-                    src="https://www.booktopia.com.au/http_coversbooktopiacomau/big/9781585424337/0000/think-and-grow-rich-bevelled-edge-edition-.webp"
-                  ></img>
-                    </Col>
-                    <Col md="6">
-                    <img
-                        alt="..."
-                        className="img-raised"
-                        src="https://www.booktopia.com.au/http_coversbooktopiacomau/big/9780712676090/0000/good-to-great.webp"
-                      ></img>
+                  {BookData.map(book => <BookCard src={book.src} description={book.description}></BookCard>)}
                     
-                    </Col>
+
                   </Row>
                 </Col>
                 </TabPane>
