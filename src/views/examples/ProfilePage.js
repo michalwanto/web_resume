@@ -470,20 +470,19 @@ function ProfilePage() {
                 <TabPane tabId="pills5">
                 <Col className="ml-auto mr-auto" md="10">
                 <h3 className="ml-auto mr-auto">Books or Audiobooks</h3>
-                <span>Collections of read books and notes</span>
                   <Row className="collections">
                     <Col md="6">
                     <img
                     alt="..."
                     className="img-raised"
-                    src="https://i.ibb.co/DgtbnC1/Python-and-Statistics-for-Financial-Analysis.png"
+                    src="https://www.booktopia.com.au/http_coversbooktopiacomau/big/9781585424337/0000/think-and-grow-rich-bevelled-edge-edition-.webp"
                   ></img>
                     </Col>
                     <Col md="6">
                     <img
                         alt="..."
                         className="img-raised"
-                        src="https://i.ibb.co/syR73jy/AI-IBM.png"
+                        src="https://www.booktopia.com.au/http_coversbooktopiacomau/big/9780712676090/0000/good-to-great.webp"
                       ></img>
                     
                     </Col>
