@@ -51,6 +51,16 @@ const BookData=[
         src:"https://www.booktopia.com.au/http_coversbooktopiacomau/big/9780349411903/0000/deep-work.webp",
         description:""
         },
+        {title:"The Everything Store",
+        src:"https://www.booktopia.com.au/http_coversbooktopiacomau/big/9780552167833/0000/the-everything-store.webp",
+        description:""
+        },
+        {title:"Built To Last",
+        src:"https://www.booktopia.com.au/http_coversbooktopiacomau/big/9780060516406/0000/built-to-last.webp",
+        description:""
+        },
+        
+        
         
         
         
