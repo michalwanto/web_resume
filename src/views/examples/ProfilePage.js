@@ -51,9 +51,12 @@ function ProfilePage() {
         <div className="section">
           <Container>
             <div className="button-container">
-              <Button className="btn-round" color="info" size="lg"  href="https://www.linkedin.com/in/michalwanto/" >
+              <Button id="tooltip340339232"className="btn-round" color="info" size="lg"  href="https://www.linkedin.com/in/michalwanto/" >
                 Connect
               </Button>
+              <UncontrolledTooltip delay={0} target="tooltip340339232">
+                Follow me on LinkedIn
+              </UncontrolledTooltip>
               <Button
                 className="btn-round btn-icon"
                 color="default"
@@ -65,6 +68,18 @@ function ProfilePage() {
               </Button>
               <UncontrolledTooltip delay={0} target="tooltip340339231">
                 Follow me on Instagram
+              </UncontrolledTooltip>
+              <Button
+                className="btn-round btn-icon"
+                color="default"
+                id="tooltip340339233"
+                size="lg"
+                href="https://github.com/michalwanto"
+              >
+              <i class="fab fa-github"></i>
+              </Button>
+              <UncontrolledTooltip delay={0} target="tooltip340339233">
+                Check my Github repositories
               </UncontrolledTooltip>
             </div>
             <h3 className="title">About me</h3>
