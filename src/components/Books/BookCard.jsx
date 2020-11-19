@@ -1,6 +1,6 @@
 import React , {useState} from "react";
 import Tilt from 'react-tilt';
-import BookDescription from "../../components/Books/BookDescription.jsx";
+
 
 import {
     Col,
@@ -14,7 +14,7 @@ import "./BookCard.scss"
 const BookCard = (props) => {
     const [hovered,setHovered] = useState(false);
     return ( 
-        <Col md="6">
+        <Col md="3">
         <Tilt onMouseEnter={()=> setHovered(true)} 
             onMouseLeave={()=> setHovered(false)}>
         <div className="BookCardDiv" >
@@ -27,9 +27,7 @@ const BookCard = (props) => {
         </img>
         
         </div>
-        {
-            hovered ? <BookDescription style={{display:"absolute", top:"-1000px"}}>{props.description}</BookDescription> : null
-        }
+        
         </Tilt>
         </Col>
      );
