@@ -330,6 +330,17 @@ function ProfilePage() {
                         </Tilt>
                         <span>Prediction Model of Housing Price by finding association and correlations of MEDV - median value of owner-occupied homes and RM - Number of Rooms using sample of properties data in BOSTON (Using Python - Libraries: Pandas,  statsmodels.formula.api and matplot) </span>
                         </div>
+                        <div style={{marginBottom:"20px"}}>
+                      <Tilt className="Tilt" options={{ max : 25 }}  >
+                        <img
+                          alt="..."
+                          className="img-raised"
+                          src= "https://i.ibb.co/yYyK3B6/Markowitz-Portfolio-Optimization.png"
+                          style={{marginBottom:"10px"}}
+                        ></img>
+                        </Tilt>
+                        <span>Markowitz-Portfolio-Optimization, using Excel Data Solver to find the best portfolio combination of two stocks to achieve highest Sharpie Ratio</span>
+                        </div>
                       </Col>
                       <Col md="6">
                       <div style={{marginBottom:"20px"}}>
