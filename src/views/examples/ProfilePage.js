@@ -328,10 +328,10 @@ function ProfilePage() {
                           style={{marginBottom:"10px"}}
                         ></img>
                         </Tilt>
-                        <span>Prediction Model of Housing Price by finding association and correlations of MEDV - median value of owner-occupied homes and RM - Number of Rooms using sample of properties data in BOSTON (Using Python - Libraries: Pandas,  statsmodels.formula.api and matplot) </span>
+                        <span>Predictive Model of Housing Price by finding association and correlations of MEDV - median value of owner-occupied homes and RM - Number of Rooms using sample of properties data in BOSTON (Using Python - Libraries: Pandas,  statsmodels.formula.api and matplot) </span>
                         </div>
                         <div style={{marginBottom:"20px"}}>
-                      <Tilt className="Tilt" options={{ max : 25 }}  >
+                        <Tilt className="Tilt" options={{ max : 25 }}  >
                         <img
                           alt="..."
                           className="img-raised"
@@ -339,7 +339,7 @@ function ProfilePage() {
                           style={{marginBottom:"10px"}}
                         ></img>
                         </Tilt>
-                        <span>Markowitz-Portfolio-Optimization, using Excel Data Solver to find the best portfolio combination of two stocks to achieve highest Sharpie Ratio</span>
+                        <span>Markowitz-Portfolio-Optimization, using Excel Data Solver to find the best portfolio combination of two stocks to achieve highest Sharpe Ratio</span>
                         </div>
                       </Col>
                       <Col md="6">
@@ -377,6 +377,17 @@ function ProfilePage() {
                         ></img>
                         </Tilt>
                         <span> Generate Scatter Matrix of all stock markets and observe association</span>
+                        </div>
+                        <div style={{marginBottom:"20px"}}>
+                        <Tilt className="Tilt" options={{ max : 25 }}  >
+                        <img
+                          alt="..."
+                          className="img-raised"
+                          src= "https://i.ibb.co/bzQd1F6/Credit-Default-Model-Linest-Function.png"
+                          style={{marginBottom:"10px"}}
+                        ></img>
+                        </Tilt>
+                        <span>Credit Default Model, using Linest Excel Function by taking several input variables like age, years at employer,	Income, Credit Card Debt, and Automobile Debt to predict the strongest determining factor that someone will default </span>
                         </div>
                       </Col>
                     </Row>
