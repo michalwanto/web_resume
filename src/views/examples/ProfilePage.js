@@ -250,12 +250,6 @@ function ProfilePage() {
                         <img
                           alt="..."
                           className="img-raised"
-                          src={require("assets/img/with_team.png")}
-                          style={{aligntItems:"centre", width:"200px",maxHeight:"400px", marginLeft: "70px",marginBottom:"5px"}}
-                        ></img>
-                        <img
-                          alt="..."
-                          className="img-raised"
                           src={require("assets/img/with_gofleetteam.JPG")}
                           style={{aligntItems:"centre", width:"200px",maxHeight:"400px", marginLeft: "70px",marginBottom:"5px"}}
                         ></img>
@@ -389,6 +383,24 @@ function ProfilePage() {
                         </Tilt>
                         <span>Credit Default Model, using Linest Excel Function by taking several input variables like age, years at employer,	Income, Credit Card Debt, and Automobile Debt to predict the strongest determining factor that someone will default </span>
                         </div>
+                        <div style={{marginBottom:"20px"}}>
+                        <Tilt className="Tilt" options={{ max : 25 }}  >
+                        <img
+                          alt="..."
+                          className="img-raised"
+                          src= "https://i.ibb.co/jZ1PBqs/Credit-Default-Model-2-Data.png"
+                          style={{marginBottom:"10px"}}
+                        ></img>
+                        <img
+                          alt="..."
+                          className="img-raised"
+                          src= "https://i.ibb.co/qnvrqmH/Credit-Default-Model-1.png"
+                          style={{marginBottom:"10px"}}
+                        ></img>
+                        </Tilt>
+                        <span>Credit Default Model - taking historical related data of bank's credit defaulted customers. Using Binary Classification and AUC chart created predictive model that can predict the likelihood of someone defaulting in the future based on several variables like the amount of automobile debt, years at employer and age. Determined how much the bank could save from using the model and its ROI if the investment is made to gather the data.</span>
+                        </div>
+                        
                       </Col>
                     </Row>
                 </Col>
