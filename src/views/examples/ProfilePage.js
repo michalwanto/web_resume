@@ -335,6 +335,18 @@ function ProfilePage() {
                         </Tilt>
                         <span>Markowitz-Portfolio-Optimization, using Excel Data Solver to find the best portfolio combination of two stocks to achieve highest Sharpe Ratio</span>
                         </div>
+                        <div style={{marginBottom:"20px"}}>
+                        <Tilt className="Tilt" options={{ max : 25 }}  >
+                        <img
+                          alt="..."
+                          className="img-raised"
+                          src= "https://i.ibb.co/HxhQWpx/Percentage-of-Information-Gained.png"
+                          style={{marginBottom:"10px"}}
+                        ></img>
+                        </Tilt>
+                        <span>Enthropy Calculation - Calculate how much uncertainty reduced ( percentage of information gained) from using the model, and how much does this new information valued in term of $</span>
+                        </div>
+                        
                       </Col>
                       <Col md="6">
                       <div style={{marginBottom:"20px"}}>
