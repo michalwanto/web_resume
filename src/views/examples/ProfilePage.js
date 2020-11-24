@@ -344,7 +344,7 @@ function ProfilePage() {
                           style={{marginBottom:"10px"}}
                         ></img>
                         </Tilt>
-                        <span>Enthropy Calculation - Calculate how much uncertainty reduced ( percentage of information gained) from using the model, and how much does this new information valued in term of $</span>
+                        <span>Enthropy Calculation (Credit Default Model) - Calculate how much uncertainty reduced ( percentage of information gained) from using the model, and how much does this new information valued in term of $</span>
                         </div>
                         
                       </Col>
