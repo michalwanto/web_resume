@@ -344,7 +344,18 @@ function ProfilePage() {
                           style={{marginBottom:"10px"}}
                         ></img>
                         </Tilt>
-                        <span>Enthropy Calculation (Credit Default Model) - Calculate how much uncertainty reduced ( percentage of information gained) from using the model, and how much does this new information valued in term of $</span>
+                        <span>Enthropy Calculation (Credit Default Model) - Calculate how much uncertainty has reduced ( percentage of information gained) from using the model, and how much does this new information valued in term of $</span>
+                        </div>
+                        <div style={{marginBottom:"20px"}}>
+                        <Tilt className="Tilt" options={{ max : 25 }}  >
+                        <img
+                          alt="..."
+                          className="img-raised"
+                          src= "https://i.ibb.co/3NqBykj/Linear-Regression-Predictive-Profitability-Model.png"
+                          style={{marginBottom:"10px"}}
+                        ></img>
+                        </Tilt>
+                        <span>Multivariate linear regression model - forecast profits and losses as continuous value by taking six input variables. Roughly estimate how much new potential customer will be worth in term of $$, for the bank to decide wether to accept or reject the new applicant. (by taking the customer Z-score * Standard Deviation + Mean of customers profitability)</span>
                         </div>
                         
                       </Col>
