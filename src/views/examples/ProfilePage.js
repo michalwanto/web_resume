@@ -143,18 +143,7 @@ function ProfilePage() {
                       <i class="fas fa-certificate"></i>
                       </NavLink>
                     </NavItem>
-                    <NavItem>
-                      <NavLink
-                        className={pills === "5" ? "active" : ""}
-                        href="#pablo"
-                        onClick={(e) => {
-                          e.preventDefault();
-                          setPills("5");
-                        }}
-                      >
-                      <i class="fas fa-book"></i>
-                      </NavLink>
-                    </NavItem>
+                    
                   </Nav>
                 </div>
               </Col>
