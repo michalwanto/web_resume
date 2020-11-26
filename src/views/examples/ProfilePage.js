@@ -499,6 +499,11 @@ function ProfilePage() {
                       <img
                         alt="..."
                         className="img-raised"
+                        src="https://i.ibb.co/LhNHjTh/Mastering-Data-Analysis-in-Excel.png"
+                      ></img>
+                      <img
+                        alt="..."
+                        className="img-raised"
                         src="https://i.ibb.co/nrYnqYh/Complete-React-Development.png"
                       ></img>
                       <img
@@ -536,6 +541,8 @@ function ProfilePage() {
                         className="img-raised"
                         src="https://i.ibb.co/y5DWDTh/SME.png"
                       ></img>
+                      
+                      
                     </Col>
                   </Row>
                 </Col>
