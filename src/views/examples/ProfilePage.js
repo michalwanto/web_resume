@@ -289,7 +289,7 @@ function ProfilePage() {
                           style={{marginBottom:"10px"}}
                         ></img>
                         </Tilt>
-                        <span>Power BI dashboard that shows high-level picture of budget, sales, and variance across different correlations</span>
+                        <span> Power BI dashboard that shows a high-level picture of Budgets, Sales, Top Products, Variance by Categories, etc.</span>
                         </div>
                         <div style={{marginBottom:"20px"}}>
                         <Tilt className="Tilt" options={{ max : 25 }}  >
@@ -300,7 +300,7 @@ function ProfilePage() {
                           
                         ></img>
                         </Tilt>
-                        <span>Data Modelling using Data Analysis Expressions(DAX) from Power BI - connecting different sources of data  - </span>
+                        <span> Data Modelling - Data Analysis Expressions(DAX) from Power BI - connect multiple sources of data. </span>
                         </div>
                         <div style={{marginBottom:"20px"}}>
                        <Tilt className="Tilt" options={{ max : 25 }}  >
@@ -311,7 +311,7 @@ function ProfilePage() {
                           style={{marginBottom:"10px"}}
                         ></img>
                         </Tilt>
-                        <span>Predictive Model of Housing Price by finding association and correlations of MEDV - median value of owner-occupied homes and RM - Number of Rooms using sample of properties data in BOSTON (Using Python - Libraries: Pandas,  statsmodels.formula.api and matplot) </span>
+                        <span>Predictive Model of Housing Price by finding association and correlations of MEDV - median value of owner-occupied homes and RM - Number of Rooms, using a sample of properties data in BOSTON (Using Python - Libraries: Pandas,  statsmodels.formula.api and Matplot) </span>
                         </div>
                         <div style={{marginBottom:"20px"}}>
                         <Tilt className="Tilt" options={{ max : 25 }}  >
@@ -322,7 +322,7 @@ function ProfilePage() {
                           style={{marginBottom:"10px"}}
                         ></img>
                         </Tilt>
-                        <span>Markowitz-Portfolio-Optimization, using Excel Data Solver to find the best portfolio combination of two stocks to achieve highest Sharpe Ratio</span>
+                        <span>Markowitz-Portfolio-Optimization used Excel Data Solver to find the best portfolio combination of two stocks to achieve the highest Sharpe Ratio.</span>
                         </div>
                         <div style={{marginBottom:"20px"}}>
                         <Tilt className="Tilt" options={{ max : 25 }}  >
@@ -333,7 +333,7 @@ function ProfilePage() {
                           style={{marginBottom:"10px"}}
                         ></img>
                         </Tilt>
-                        <span>Enthropy Calculation (Credit Default Model) - Calculate how much uncertainty has reduced ( percentage of information gained) from using the model, and how much does this new information valued in term of $</span>
+                        <span>Entropy Calculation (Credit Default Model) - Calculate how much uncertainty has reduced ( percentage of information gained) from using the model, and how much does this new information valued in term of $</span>
                         </div>
                         <div style={{marginBottom:"20px"}}>
                         <Tilt className="Tilt" options={{ max : 25 }}  >
@@ -344,7 +344,7 @@ function ProfilePage() {
                           style={{marginBottom:"10px"}}
                         ></img>
                         </Tilt>
-                        <span>Multivariate linear regression model - forecast profits and losses as continuous value by taking six input variables. Roughly estimate how much new potential customer will be worth in term of $$, for the bank to decide wether to accept or reject the new applicant. (by taking the customer Z-score * Standard Deviation + Mean of customers profitability)</span>
+                        <span>Multivariate linear regression model - forecast profits and losses as continuous value by taking six input variables. Roughly estimate how much new potential customer will be worth in terms of $$, for the bank to decide whether to accept or reject a new applicant. (by taking the customer Z-score * Standard Deviation + Mean of customers profitability)</span>
                         </div>
                         
                       </Col>
@@ -360,7 +360,7 @@ function ProfilePage() {
                         ></img>
                         </Tilt>
                         </a>
-                        <span>Web App that uses Clarifai Computer Vision API, it detects faces in any picture uploaded (using React, NodeJs, postgreSQL)</span>
+                        <span>Web App that uses Clarifai Computer Vision API, it detects faces in any picture uploaded (using React, NodeJs, PostgreSQL)</span>
                         </div>
                         <div style={{marginBottom:"20px"}}>
                         <a href="https://michalwanto.github.io/robofriends/">
@@ -393,7 +393,7 @@ function ProfilePage() {
                           style={{marginBottom:"10px"}}
                         ></img>
                         </Tilt>
-                        <span>Credit Default Model, using Linest Excel Function by taking several input variables like age, years at employer,	Income, Credit Card Debt, and Automobile Debt to predict the strongest determining factor that someone will default </span>
+                        <span>Credit Default Model, using Linest Excel Function by taking several input variables like age, years at an employer,  Income, Credit Card Debt, and Automobile Debt to predict the strongest determining factor that someone will default </span>
                         </div>
                         <div style={{marginBottom:"20px"}}>
                         <Tilt className="Tilt" options={{ max : 25 }}  >
@@ -410,7 +410,18 @@ function ProfilePage() {
                           style={{marginBottom:"10px"}}
                         ></img>
                         </Tilt>
-                        <span>Credit Default Model - taking historical related data of bank's credit defaulted customers. Using Binary Classification and AUC chart created predictive model that can predict the likelihood of someone defaulting in the future based on several variables like the amount of automobile debt, years at employer and age. Determined how much the bank could save from using the model and its ROI if the investment is made to gather the data.</span>
+                        <span>Credit Default Model - taking historical data of bank's credit defaulted customers. Using Binary Classification and AUC chart created a predictive model that can predict the likelihood of someone defaulting in the future based on several variables like the amount of automobile debt, years at employer, and age. Determine how much money a bank could save from using the model and its ROI. </span>
+                        </div>
+                        <div style={{marginBottom:"20px"}}>
+                        <Tilt className="Tilt" options={{ max : 25 }}  >
+                        <img
+                          alt="..."
+                          className="img-raised"
+                          src= "https://i.ibb.co/gmX9L0j/Tableau-Public-Screenshot.png"
+                          style={{marginBottom:"10px"}}
+                        ></img>
+                        </Tilt>
+                        <span>Personal Tableau Public - <a href="https://public.tableau.com/profile/michal4897#!/">https://public.tableau.com/profile/michal4897#!/</a>  </span>
                         </div>
                         
                       </Col>
