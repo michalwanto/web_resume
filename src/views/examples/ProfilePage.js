@@ -346,6 +346,30 @@ function ProfilePage() {
                         </Tilt>
                         <span>Multivariate linear regression model - forecast profits and losses as continuous value by taking six input variables. Roughly estimate how much new potential customer will be worth in terms of $$, for the bank to decide whether to accept or reject a new applicant. (by taking the customer Z-score * Standard Deviation + Mean of customers profitability)</span>
                         </div>
+                        <div style={{marginBottom:"20px"}}>
+                        <Tilt className="Tilt" options={{ max : 25 }}  >
+                        <img
+                          alt="..."
+                          className="img-raised"
+                          src= "https://content.screencast.com/users/Michalwnt/folders/Default/media/bf405d28-6d98-4944-bef3-f386170401ef/ERD%20Screenshot.png"
+                          style={{marginBottom:"10px"}}
+                        ></img>
+                        </Tilt>
+                        <span>Database Design - Entity Relationship Diagram using ERDplus.com </span>
+                        </div>
+                        <div style={{marginBottom:"20px"}}>
+                        <Tilt className="Tilt" options={{ max : 25 }}  >
+                        <img
+                          alt="..."
+                          className="img-raised"
+                          src= "https://content.screencast.com/users/Michalwnt/folders/Default/media/06e79854-00ed-4d1b-b080-16f87119fbe8/Firebase%20Screenshot.png"
+                          style={{marginBottom:"10px"}}
+                        ></img>
+                        </Tilt>
+                        <span>Database Tool - basic users login database using Cloud Firestore</span>
+                        </div>
+                        
+                        
                         
                       </Col>
                       <Col md="6">
@@ -360,7 +384,7 @@ function ProfilePage() {
                         ></img>
                         </Tilt>
                         </a>
-                        <span>Web App that uses Clarifai Computer Vision API, it detects faces in any picture uploaded (using React, NodeJs, PostgreSQL)</span>
+                        <span>Web App that uses Clarifai Computer Vision API, it detects faces in any picture uploaded (using React, NodeJs, PostgreSQL) <a href="https://smart-brain-front-end1.herokuapp.com/">https://smart-brain-front-end1.herokuapp.com/</a></span>
                         </div>
                         <div style={{marginBottom:"20px"}}>
                         <a href="https://michalwanto.github.io/robofriends/">
@@ -372,7 +396,7 @@ function ProfilePage() {
                         ></img>
                         </Tilt>
                         </a>
-                        <span> Basic web application the uses React, React Redux, Hooks, bootstrap card component, etc. </span>
+                        <span> Basic web application the uses React, React Redux, Hooks, bootstrap card component, etc. <a href="https://michalwanto.github.io/robofriends/">https://michalwanto.github.io/robofriends/</a> </span>
                         </div>
                         <div style={{marginBottom:"20px"}}>
                         <Tilt className="Tilt" options={{ max : 25 }}  >
