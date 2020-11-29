@@ -453,6 +453,12 @@ function ProfilePage() {
                       className="img-raised"
                       src="https://i.ibb.co/FBVvtG1/Business-Metrics-For-Data-Driven-Business.png"
                     ></img>
+                    <img
+                      alt="..."
+                      className="img-raised"
+                      src="https://i.ibb.co/6PJQQKH/Data-Visualization-and-Communication-with-Tableau.png"
+                    ></img>
+                    
                     
                       <img
                         alt="..."
