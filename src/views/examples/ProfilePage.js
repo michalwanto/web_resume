@@ -452,7 +452,7 @@ function ProfilePage() {
                         <img
                           alt="..."
                           className="img-raised"
-                          src= "https://content.screencast.com/users/Michalwnt/folders/Default/media/5de250b3-942d-4a62-9c66-af766bfa1c46/Teradata%20Screenshot.png"
+                          src= "https://content.screencast.com/users/Michalwnt/folders/Default/media/c408a9db-f31b-4886-847d-7cd705c3e644/Teradata%20screenshot.png"
                           style={{marginBottom:"10px"}}
                         ></img>
                         </Tilt>
