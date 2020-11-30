@@ -447,6 +447,19 @@ function ProfilePage() {
                         </Tilt>
                         <span>Personal Tableau Public - <a href="https://public.tableau.com/profile/michal4897#!/">https://public.tableau.com/profile/michal4897#!/</a>  </span>
                         </div>
+                        <div style={{marginBottom:"20px"}}>
+                        <Tilt className="Tilt" options={{ max : 25 }}  >
+                        <img
+                          alt="..."
+                          className="img-raised"
+                          src= "https://content.screencast.com/users/Michalwnt/folders/Default/media/5de250b3-942d-4a62-9c66-af766bfa1c46/Teradata%20Screenshot.png"
+                          style={{marginBottom:"10px"}}
+                        ></img>
+                        </Tilt>
+                        <span>SQL Queries using Teradata</span>
+                        </div>
+
+                        
                         
                       </Col>
                     </Row>
