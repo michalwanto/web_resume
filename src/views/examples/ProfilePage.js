@@ -458,7 +458,18 @@ function ProfilePage() {
                         </Tilt>
                         <span>SQL Queries using Teradata</span>
                         </div>
-
+                        <div style={{marginBottom:"20px"}}>
+                        <Tilt className="Tilt" options={{ max : 25 }}  >
+                        <img
+                          alt="..."
+                          className="img-raised"
+                          src= "https://content.screencast.com/users/Michalwnt/folders/Default/media/5528a8c6-b223-4428-bb7e-7baebade9626/SQL%20-%20Queries%20SC2.png"
+                          style={{marginBottom:"10px"}}
+                        ></img>
+                        </Tilt>
+                        <span>SQL Queries 2</span>
+                        </div>
+                        
                         
                         
                       </Col>
