@@ -482,6 +482,16 @@ function ProfilePage() {
                   <Row className="collections">
                     <Col md="6">
                     <img
+                      alt="..."
+                      className="img-raised"
+                      src="https://i.ibb.co/6PJQQKH/Data-Visualization-and-Communication-with-Tableau.png"
+                    ></img>
+                    <img
+                      alt="..."
+                      className="img-raised"
+                      src="https://i.ibb.co/FBVvtG1/Business-Metrics-For-Data-Driven-Business.png"
+                    ></img>
+                    <img
                     alt="..."
                     className="img-raised"
                     src="https://i.ibb.co/DgtbnC1/Python-and-Statistics-for-Financial-Analysis.png"
@@ -496,16 +506,8 @@ function ProfilePage() {
                       className="img-raised"
                       src="https://i.ibb.co/qjh2q47/Exploring-Data-for-Business-Decision.png"
                     ></img>
-                    <img
-                      alt="..."
-                      className="img-raised"
-                      src="https://i.ibb.co/FBVvtG1/Business-Metrics-For-Data-Driven-Business.png"
-                    ></img>
-                    <img
-                      alt="..."
-                      className="img-raised"
-                      src="https://i.ibb.co/6PJQQKH/Data-Visualization-and-Communication-with-Tableau.png"
-                    ></img>
+                    
+                    
                     
                     
                       <img
@@ -549,6 +551,16 @@ function ProfilePage() {
                     <img
                         alt="..."
                         className="img-raised"
+                        src="https://content.screencast.com/users/Michalwnt/folders/Default/media/5a8a9524-5195-404c-844e-4f4891cfb43a/Managing%20Big%20Data%20with%20MySQL.png"
+                      ></img>
+                      <img
+                        alt="..."
+                        className="img-raised"
+                        src="https://i.ibb.co/LhNHjTh/Mastering-Data-Analysis-in-Excel.png"
+                      ></img>
+                    <img
+                        alt="..."
+                        className="img-raised"
                         src="https://i.ibb.co/syR73jy/AI-IBM.png"
                       ></img>
                     <img
@@ -561,11 +573,8 @@ function ProfilePage() {
                         className="img-raised"
                         src="https://i.ibb.co/2ZB84hQ/Future-Thinking.png"
                       ></img>
-                      <img
-                        alt="..."
-                        className="img-raised"
-                        src="https://i.ibb.co/LhNHjTh/Mastering-Data-Analysis-in-Excel.png"
-                      ></img>
+                      
+                    
                       <img
                         alt="..."
                         className="img-raised"
