@@ -99,3 +99,18 @@
 //                       <i class="fas fa-book"></i>
 //                       </NavLink>
 //                     </NavItem>
+
+// PROJECT REACT 
+// <div style={{marginBottom:"20px"}}>
+//                         <a href="https://michalwanto.github.io/robofriends/">
+//                         <Tilt className="Tilt" options={{ max : 25 }}  >
+//                         <img
+//                           alt="..."
+//                           className="img-raised"
+//                           src="https://i.ibb.co/w4cpcj2/Robofriends.png"
+//                         ></img>
+//                         </Tilt>
+//                         </a>
+//                         <span> Basic web application the uses React, React Redux, Hooks, bootstrap card component, etc. <a href="https://michalwanto.github.io/robofriends/">https://michalwanto.github.io/robofriends/</a> </span>
+//                         </div>
+                        

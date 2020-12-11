@@ -183,7 +183,7 @@ function ProfilePage() {
                         <h5 style={{marginBottom:"2px",color:"grey"}}>University</h5>
                         <h5 style={{marginBottom:"2px",color:"grey", fontSize:"14px"}}>Top 20 in The World : FORBES INTERNATIONAL B-SCHOOLS (2013-15)</h5>
                         <p style={{fontSize:"14px"}}>2017 - Present</p>
-                        <span>Bachelor of Business Administration (DEANS LIST) - Three cities program; one year in Singapore, one year in Dubai, and two years in Sydney. Coursework included Cost Accounting, Digital Marketing, Employability and Practitioner Skill, Financial Market and Institution, Financial Statement Analysis, Foundations of Entrepreneurship, Human Resource Management, Business Law, Decision Making, Project Management, Australia Business Environment, Branding and Communication, Strategic Management, Business Disruptive Technology, Business English Writing, Business Oral Communication, Computer Skills, Corporate Finance, Critical Thinking, Decision Science, Emotional Intelligence, Financial Accounting, Leadership, Macroeconomics, Marketing, Mathematics, Operations Management, Organisational Behaviour, Principles of Management, Regional Immersion Project, Research Methodology, Statistics, Sustainability & Corporate Social Responsibility, World Cultures. Average GPA of 4.0
+                        <span>Bachelor of Business Administration (Dean's Lister) - Three cities program; one year in Singapore, one year in Dubai, and two years in Sydney. Coursework included Cost Accounting, Digital Marketing, Employability and Practitioner Skill, Financial Market and Institution, Financial Statement Analysis, Foundations of Entrepreneurship, Human Resource Management, Business Law, Decision Making, Project Management, Australia Business Environment, Branding and Communication, Strategic Management, Business Disruptive Technology, Business English Writing, Business Oral Communication, Computer Skills, Corporate Finance, Critical Thinking, Decision Science, Emotional Intelligence, Financial Accounting, Leadership, Macroeconomics, Marketing, Mathematics, Operations Management, Organisational Behaviour, Principles of Management, Regional Immersion Project, Research Methodology, Statistics, Sustainability & Corporate Social Responsibility, World Cultures. Average GPA of 4.0
                         </span>
                       </Col>
                       
@@ -215,14 +215,16 @@ function ProfilePage() {
                         <h5 style={{marginBottom:"2px",color:"grey"}}>Finance Intern</h5>
                         <p style={{marginBottom:"2px",fontSize:"13px"}}>May 2018 - Sep 2018</p>
                         <p style={{fontSize:"12px"}}>Singapore</p>
-                        <span>Worked closely with CFO in managing and analyzing newest and past financial data, looking at financial performance and identifying trends, ensure accurate financial reporting through bank reconciliation, account receivables & payables reconciliation(through Xero accounting platform), ad-hoc entries, and finalizing the exported data in Excel using macros, pivot tables, V-lookup, conditional formatting, etc..</span>
-                        <br></br>
-                        <br></br>
-                        <span >Worked closely with the finance team, forming FP&A, consulting with the management team to develop long-term commercial plan, evaluate financial performance by comparing and analyzing actual results with plans and forecasts, aid in the capital budgeting and expenditure planning processes, suggesting budgets and improvements based on insights gathered, exploring different investment opportunities, perform market research, data mining, business intelligence, and valuation comps, developing financial models and providing financial forecast, developing initiatives and policies that may improve financial growth, guide the cost analysis process by establishing and enforcing policies and procedures, conduct comparable company analysis to support internal financial analysis, preparing report which include key metrics, financial result , variance analysis and communicating insights to the senior management of the company and its subsidiaries companies that are operating across Southeast Asian countries (Indonesia, Vietnam, Thailand, Malaysia, Laos, and Singapore). 
+                        <span>Worked closely with CFO in managing and analyzing the newest and past financial data. Interrogated the company's financial performance and identifying trends. Ensure accurate financial reporting through bank reconciliation, account receivables & payables reconciliation(through Xero accounting platform), ad-hoc entries, and finalizing the exported data in Excel using macros, pivot tables, V-lookup, conditional formatting, etc. 
                         </span>
                         <br></br>
                         <br></br>
-                        <span >Managed $10M+ worth of Financial and Inventories Data of its four subsidiary companies, Dressabelle(Women Fashion), Invade(Office Space Provider), Red Republics(Event Organiser), and Megafash(Retail). Gathering missing data, cleansing of data, analyzing data, designing models and formulating charts, diagrams, dashboards(using Excel & Power BI), and present key metrics and recommendations to the CFO.
+                        <span >Worked closely with the finance team, forming FP&A, consulted with the management team to develop long-term commercial plan, evaluated financial performance by comparing and analyzing actual results with plans and forecasts, aided in the capital budgeting and expenditure planning processes. Suggested budgets and improvements based on insights acquired. Explored different investment opportunities. Performed market research, data mining, and valuation comps. Developed financial models and financial forecast. Developed initiatives and policies that may improve financial growth. Guided the cost analysis process by establishing and enforcing new policies and procedures. Conducted Comparable Company Analysis. Prepared reports which include key metrics, financial result , variance analysis.  Presented insights to the senior management of the company and its subsidiaries companies that are operating across Southeast Asian countries (Indonesia, Vietnam, Thailand, Malaysia, Laos, and Singapore). 
+ 
+                        </span>
+                        <br></br>
+                        <br></br>
+                        <span >Managed $10M+ worth of Financial and Inventories Data of company’s subsidiary companies, Dressabelle(Women Fashion), Invade(Office Space Provider), Red Republics(Event Organiser), and Megafash(Retail). Gathered missing data, cleansed and analyzed data. Designed models, charts, diagrams, dashboards(using Excel & Power BI), and presenting key metrics and recommendations to the CFO.
                         </span>
                       </Col>
                     </Row>
@@ -249,27 +251,28 @@ function ProfilePage() {
                       <h5 style={{marginBottom:"2px",color:"grey"}}>Management Trainee</h5>
                       <p style={{marginBottom:"2px",fontSize:"13px"}}>May 2019 - Sep 2019</p>
                       <p style={{fontSize:"12px"}}>Dubai, UAE</p>
-                      <span>Worked closely with the CEO, conducted a firm’s Target Operating Model(TOM)for its underground airport project, and prepared top management presentations for its clients, Dnata, Emirates Group, and Dubai Airport.
+                      <span>Worked closely with the CEO, conducted a firm's Target Operating Model(TOM)for its underground airport project, and prepared top management presentations for its clients, Dnata, Emirates Group, and Dubai Airport.
                       </span>
                       <br/><br/>
                       <span>
-                      Collaborated with data analysts, engineers, and project teams in managing $20M+ worth of the vast amount of telematics data. Gathered and analyzed data & functionalities requirements from clients, applied data modeling techniques and designed workflow into a process map (using Visio), investigated the data by assigning formulas, sorting, filtering, formatting, and transmuted them into charts, diagrams, and dashboards such as assets utilization matrix, fuel consumption matrix, vehicles idling time, ROI, etc. Followed by UAT(user acceptance testing) for the company’s clients, Dnata and Emirates Group. 
+                      I have worked with data analysts, engineers, and project teams in managing $20M+ worth of the vast amount of telematics data. Gathered requirements from clients. Applied data modelling techniques and designed workflow into a process map (using Visio).  Investigated the data by assigning formulas, sorting, filtering, formatting, and transmuted them into charts, diagrams, and dashboards such as assets utilization matrix, fuel consumption matrix, vehicles idling time, ROI, etc. Follow by UAT(user acceptance testing) for the company's clients, Dnata and Emirates Group. 
+
                       </span>
                       <br/><br/>
                       <span>
-                      Team up with senior engineers in scheduling project operational tasks by managing and assigning competing resources and priorities for a range of tasks to meet targeted dates and cost efficiency benchmark. Prepared controls and improved procedures, formulated charts ( Power BI), utilize management tools like Gantt chart to monitor deliverables and ensure timely completion of projects (meeting milestones), perform weekly and monthly reviews and analyses of current processes using operational metrics and reports. Conducted insightful, ad hoc analyses to investigate ongoing or one-time operational issues, and inform project progress across stakeholders.
+                      Team up with senior engineers in scheduling project operational tasks by managing and assigning competing resources and priorities for a range of tasks to meet targeted dates and cost-efficiency benchmarks. Prepared controls and improved procedures, formulated charts, utilized management tools like Gantt chart to monitor deliverables and ensured timely completion of projects (meeting milestones), and performed weekly and monthly reviews of current processes. I have also conducted an insightful ad hoc analyses to investigate ongoing or one-time operational issues and inform project progress across stakeholders.
                       </span>
                       <br/><br/>
                       <span>
-                      Worked together with project manager in determining business objectives, evaluating business processes, performing requirements analysis, mapping and designing workflow chart and diagrams of product integration and product introduction (Visio), conduct and coordinate financial, product, market, operational, and related research to support strategic and business planning within the various departments and programs of the client group, uncovering areas for improvement, developing project plans, leading ongoing reviews of business processes and developing optimization strategies, ensuring solutions meet business needs and requirements, communicating insights and plans to cross-functional team members, management and other stakeholders for the company’s Dubai Airport Underground Project.
+                      Worked together with the project manager to determine business objectives. Evaluated business processes. Performed requirements analysis. Designed workflow charts and diagrams of product integration and product introduction (Visio)processes. Conducted related research to support strategic and business planning within the various departments and programs of the client group. Discovering areas for improvement. Developed project plans, lead ongoing reviews of business processes and developed optimization strategies, ensuring solutions meet business needs and requirements. Present insights and plans to cross-functional team members, management and other stakeholders for the company's Dubai Airport Underground Project.
                       </span>
                       <br/><br/>
                       <span>
-                      Conducted primary and secondary market research on the feasibility and viability of electric bikes in Dubai as a mode of delivery in the F&B sector. Interpret, evaluate and interrelate research data and develop integrated business analyses and projections for incorporation into strategic decision-making, these include coming up with entry strategy, competitive market analysis, tactics, functional strategies, business strategies, and corporate strategies and present findings to the internal stakeholders.
+                      I have also conducted primary and secondary market research on the feasibility and viability of electric bikes in Dubai as a delivery mode of transportation in the F&B sector. Interpreted, evaluated and interrelated research data and developed integrated business analyses and projections for possibilities of incorporation into strategic decision-making; these include coming up with entry strategy, competitive market analysis, tactics, functional strategies, business strategies, and corporate strategies suggestions to the internal stakeholders.
                       </span>
                       <br/><br/>
                       <span>
-                      Redesigning the company’s profile deck, website UI/UX, and brochures. Arranging Excel and PowerPoint training for the junior team. Involved in hiring, preparing tests, and selecting new potential candidates alongside the HR manager and the CEO.</span>
+                      Redesigned the company's profile deck, website UI/UX, and brochures. Arranged Excel and PowerPoint trainings for the junior team. Involved in hiring, preparing tests, and selecting new potential candidates alongside the HR manager and the CEO.</span>
                       </Col>
                       
                     </Row>
@@ -301,6 +304,17 @@ function ProfilePage() {
                         ></img>
                         </Tilt>
                         <span> Data Modelling - Data Analysis Expressions(DAX) from Power BI - connect multiple sources of data. </span>
+                        </div>
+                        <div style={{marginBottom:"20px"}}>
+                        <Tilt className="Tilt" options={{ max : 25 }}  >
+                        <img
+                          alt="..."
+                          className="img-raised"
+                          src= "https://content.screencast.com/users/Michalwnt/folders/Default/media/bf405d28-6d98-4944-bef3-f386170401ef/ERD%20Screenshot.png"
+                          style={{marginBottom:"10px"}}
+                        ></img>
+                        </Tilt>
+                        <span>Database Design - Entity Relationship Diagram using ERDplus.com </span>
                         </div>
                         <div style={{marginBottom:"20px"}}>
                        <Tilt className="Tilt" options={{ max : 25 }}  >
@@ -346,17 +360,7 @@ function ProfilePage() {
                         </Tilt>
                         <span>Multivariate linear regression model - forecast profits and losses as continuous value by taking six input variables. Roughly estimate how much new potential customer will be worth in terms of $$, for the bank to decide whether to accept or reject a new applicant. (by taking the customer Z-score * Standard Deviation + Mean of customers profitability)</span>
                         </div>
-                        <div style={{marginBottom:"20px"}}>
-                        <Tilt className="Tilt" options={{ max : 25 }}  >
-                        <img
-                          alt="..."
-                          className="img-raised"
-                          src= "https://content.screencast.com/users/Michalwnt/folders/Default/media/bf405d28-6d98-4944-bef3-f386170401ef/ERD%20Screenshot.png"
-                          style={{marginBottom:"10px"}}
-                        ></img>
-                        </Tilt>
-                        <span>Database Design - Entity Relationship Diagram using ERDplus.com </span>
-                        </div>
+                        
                         <div style={{marginBottom:"20px"}}>
                         <Tilt className="Tilt" options={{ max : 25 }}  >
                         <img
@@ -374,30 +378,27 @@ function ProfilePage() {
                       </Col>
                       <Col md="6">
                       <div style={{marginBottom:"20px"}}>
-                      <a href="https://smart-brain-front-end1.herokuapp.com/">
                       <Tilt className="Tilt" options={{ max : 25 }}  >
-                        <img
-                          alt="..."
-                          className="img-raised"
-                          src="https://i.ibb.co/1r79nK2/Computer-Vision.png"
-                          style={{marginBottom:"5px"}}
-                        ></img>
-                        </Tilt>
-                        </a>
-                        <span>Web App that uses Clarifai Computer Vision API, it detects faces in any picture uploaded (using React, NodeJs, PostgreSQL) <a href="https://smart-brain-front-end1.herokuapp.com/">https://smart-brain-front-end1.herokuapp.com/</a></span>
-                        </div>
-                        <div style={{marginBottom:"20px"}}>
-                        <a href="https://michalwanto.github.io/robofriends/">
-                        <Tilt className="Tilt" options={{ max : 25 }}  >
-                        <img
-                          alt="..."
-                          className="img-raised"
-                          src="https://i.ibb.co/w4cpcj2/Robofriends.png"
-                        ></img>
-                        </Tilt>
-                        </a>
-                        <span> Basic web application the uses React, React Redux, Hooks, bootstrap card component, etc. <a href="https://michalwanto.github.io/robofriends/">https://michalwanto.github.io/robofriends/</a> </span>
-                        </div>
+                      <img
+                        alt="..."
+                        className="img-raised"
+                        src= "https://i.ibb.co/gmX9L0j/Tableau-Public-Screenshot.png"
+                        style={{marginBottom:"10px"}}
+                      ></img>
+                      </Tilt>
+                      <span>Personal Tableau Public - <a href="https://public.tableau.com/profile/michal4897#!/">https://public.tableau.com/profile/michal4897#!/</a>  </span>
+                      </div>
+                      <div style={{marginBottom:"20px"}}>
+                      <Tilt className="Tilt" options={{ max : 25 }}  >
+                      <img
+                        alt="..."
+                        className="img-raised"
+                        src= "https://content.screencast.com/users/Michalwnt/folders/Default/media/14a66e44-43f7-4df7-934b-356eee5cbdc7/Teradata%20Screenshot.png"
+                        style={{marginBottom:"10px"}}
+                      ></img>
+                      </Tilt>
+                      <span>SQL Queries using Teradata</span>
+                      </div>
                         <div style={{marginBottom:"20px"}}>
                         <Tilt className="Tilt" options={{ max : 25 }}  >
                         <img
@@ -436,28 +437,7 @@ function ProfilePage() {
                         </Tilt>
                         <span>Credit Default Model - taking historical data of bank's credit defaulted customers. Using Binary Classification and AUC chart created a predictive model that can predict the likelihood of someone defaulting in the future based on several variables like the amount of automobile debt, years at employer, and age. Determine how much money a bank could save from using the model and its ROI. </span>
                         </div>
-                        <div style={{marginBottom:"20px"}}>
-                        <Tilt className="Tilt" options={{ max : 25 }}  >
-                        <img
-                          alt="..."
-                          className="img-raised"
-                          src= "https://i.ibb.co/gmX9L0j/Tableau-Public-Screenshot.png"
-                          style={{marginBottom:"10px"}}
-                        ></img>
-                        </Tilt>
-                        <span>Personal Tableau Public - <a href="https://public.tableau.com/profile/michal4897#!/">https://public.tableau.com/profile/michal4897#!/</a>  </span>
-                        </div>
-                        <div style={{marginBottom:"20px"}}>
-                        <Tilt className="Tilt" options={{ max : 25 }}  >
-                        <img
-                          alt="..."
-                          className="img-raised"
-                          src= "https://content.screencast.com/users/Michalwnt/folders/Default/media/14a66e44-43f7-4df7-934b-356eee5cbdc7/Teradata%20Screenshot.png"
-                          style={{marginBottom:"10px"}}
-                        ></img>
-                        </Tilt>
-                        <span>SQL Queries using Teradata</span>
-                        </div>
+                        
                         <div style={{marginBottom:"20px"}}>
                         <Tilt className="Tilt" options={{ max : 25 }}  >
                         <img
@@ -468,6 +448,19 @@ function ProfilePage() {
                         ></img>
                         </Tilt>
                         <span>SQL Queries 2</span>
+                        </div>
+                        <div style={{marginBottom:"20px"}}>
+                      <a href="https://smart-brain-front-end1.herokuapp.com/">
+                      <Tilt className="Tilt" options={{ max : 25 }}  >
+                        <img
+                          alt="..."
+                          className="img-raised"
+                          src="https://i.ibb.co/1r79nK2/Computer-Vision.png"
+                          style={{marginBottom:"5px"}}
+                        ></img>
+                        </Tilt>
+                        </a>
+                        <span>Web App that uses Clarifai Computer Vision API, it detects faces in any picture uploaded (using React, NodeJs, PostgreSQL) <a href="https://smart-brain-front-end1.herokuapp.com/">https://smart-brain-front-end1.herokuapp.com/</a></span>
                         </div>
                         
                         
