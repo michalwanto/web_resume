@@ -497,6 +497,11 @@ function ProfilePage() {
                       src="https://i.ibb.co/FBVvtG1/Business-Metrics-For-Data-Driven-Business.png"
                     ></img>
                     <img
+                      alt="..."
+                      className="img-raised"
+                      src="https://content.screencast.com/users/Michalwnt/folders/Default/media/281fee8a-676e-4bcf-bbf0-fb6abe976ae7/Getting%20Started%20with%20AI%20with%20IBM.png"
+                    ></img>
+                    <img
                     alt="..."
                     className="img-raised"
                     src="https://i.ibb.co/DgtbnC1/Python-and-Statistics-for-Financial-Analysis.png"
