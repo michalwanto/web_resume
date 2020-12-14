@@ -372,6 +372,18 @@ function ProfilePage() {
                         </Tilt>
                         <span>Database Tool - basic users login database using Cloud Firestore</span>
                         </div>
+                        <div style={{marginBottom:"20px"}}>
+                        <Tilt className="Tilt" options={{ max : 25 }}  >
+                        <img
+                          alt="..."
+                          className="img-raised"
+                          src= "https://content.screencast.com/users/Michalwnt/folders/Default/media/9bd720a5-fa0f-4cc4-b063-88dd0489b356/IBM%20Watson%20Assistant%20Chat%20Bot.png"
+                          style={{marginBottom:"10px"}}
+                        ></img>
+                        </Tilt>
+                        <span>ChatBot from IBM Watson Assistant</span>
+                        </div>
+                        
                         
                         
                         
