@@ -48,6 +48,19 @@
     />
     <link rel="stylesheet" href="https://cdnjs.com/libraries/font-awesome">
     <title>Michal Wanto's Portfolio</title>
+    <script>
+      window.watsonAssistantChatOptions = {
+          integrationID: "053e868e-eeae-42bb-96c5-0b3cf943676e", // The ID of this integration.
+          region: "us-south", // The region your integration is hosted in.
+          serviceInstanceID: "4d2801be-a925-4bd7-8cc6-5caa33cecb34", // The ID of your service instance.
+          onLoad: function(instance) { instance.render(); }
+        };
+      setTimeout(function(){
+        const t=document.createElement('script');
+        t.src="https://web-chat.global.assistant.watson.appdomain.cloud/loadWatsonAssistantChat.js";
+        document.head.appendChild(t);
+      });
+    </script>
   </head>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
