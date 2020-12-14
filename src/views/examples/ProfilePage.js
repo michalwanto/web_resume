@@ -381,7 +381,7 @@ function ProfilePage() {
                           style={{marginBottom:"10px"}}
                         ></img>
                         </Tilt>
-                        <span>ChatBot from IBM Watson Assistant</span>
+                        <span>Created a ChatBot using IBM Watson Assistant</span>
                         </div>
                         
                         
