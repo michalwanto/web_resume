@@ -63,6 +63,7 @@ function ProfilePage() {
                 id="tooltip340339231"
                 size="lg"
                 href="https://www.instagram.com/michalwnt/"
+                target="_blank"
               >
                 <i className="fab fa-instagram"></i>
               </Button>
@@ -509,10 +510,16 @@ function ProfilePage() {
                       src="https://i.ibb.co/FBVvtG1/Business-Metrics-For-Data-Driven-Business.png"
                     ></img>
                     <img
-                      alt="..."
+                      alt="IBM"
                       className="img-raised"
                       src="https://content.screencast.com/users/Michalwnt/folders/Default/media/281fee8a-676e-4bcf-bbf0-fb6abe976ae7/Getting%20Started%20with%20AI%20with%20IBM.png"
                     ></img>
+                    <img
+                      alt="IBM"
+                      className="img-raised"
+                      src="https://content.screencast.com/users/Michalwnt/folders/Default/media/a52d0872-36e8-47cd-a201-a1f323f4ab28/Building%20AI%20powered%20chatbots%20without%20programming.png"
+                    ></img>
+                    
                     <img
                     alt="..."
                     className="img-raised"
@@ -523,11 +530,7 @@ function ProfilePage() {
                         className="img-raised"
                         src="https://i.ibb.co/449zZ3q/Business-Strategy.png"
                       ></img>
-                      <img
-                      alt="..."
-                      className="img-raised"
-                      src="https://i.ibb.co/qjh2q47/Exploring-Data-for-Business-Decision.png"
-                    ></img>
+                      
                     
                     
                     
@@ -585,6 +588,13 @@ function ProfilePage() {
                         className="img-raised"
                         src="https://i.ibb.co/syR73jy/AI-IBM.png"
                       ></img>
+                      <img
+                        alt="..."
+                        className="img-raised"
+                        title="Python for data science and AI"
+                        src="https://content.screencast.com/users/Michalwnt/folders/Default/media/1a14984a-12f1-4052-a2fa-2251da53b0d2/Python%20for%20Data%20Science%20and%20AI.png"
+                      ></img>
+                  
                     <img
                         alt="..."
                         className="img-raised"
@@ -595,7 +605,11 @@ function ProfilePage() {
                         className="img-raised"
                         src="https://i.ibb.co/2ZB84hQ/Future-Thinking.png"
                       ></img>
-                      
+                      <img
+                      alt="..."
+                      className="img-raised"
+                      src="https://i.ibb.co/qjh2q47/Exploring-Data-for-Business-Decision.png"
+                    ></img>
                     
                       <img
                         alt="..."
