@@ -384,6 +384,18 @@ function ProfilePage() {
                         </Tilt>
                         <span>Created a Chatbot using IBM Watson Assistant</span>
                         </div>
+                        <div style={{marginBottom:"20px"}}>
+                        <Tilt className="Tilt" options={{ max : 25 }}  >
+                        <img
+                          alt="..."
+                          className="img-raised"
+                          src= "https://content.screencast.com/users/Michalwnt/folders/Default/media/658cba11-c98f-49fd-afce-2d768ac65276/IBM%20Watson%20Discovery%20SC.png"
+                          style={{marginBottom:"10px"}}
+                        ></img>
+                        </Tilt>
+                        <span>IBM Watson Discovery - exporing keywords and concepts in database</span>
+                        </div>
+                        
                         
                         
                         
@@ -510,14 +522,19 @@ function ProfilePage() {
                       src="https://i.ibb.co/FBVvtG1/Business-Metrics-For-Data-Driven-Business.png"
                     ></img>
                     <img
-                      alt="IBM"
+                      alt="Getting Started With AI"
                       className="img-raised"
                       src="https://content.screencast.com/users/Michalwnt/folders/Default/media/281fee8a-676e-4bcf-bbf0-fb6abe976ae7/Getting%20Started%20with%20AI%20with%20IBM.png"
                     ></img>
                     <img
-                      alt="IBM"
+                      alt="Building AI-powered Chatbot wihtout programming"
                       className="img-raised"
                       src="https://content.screencast.com/users/Michalwnt/folders/Default/media/a52d0872-36e8-47cd-a201-a1f323f4ab28/Building%20AI%20powered%20chatbots%20without%20programming.png"
+                    ></img>
+                    <img
+                      alt="Building AI application with Watson API"
+                      className="img-raised"
+                      src="https://content.screencast.com/users/Michalwnt/folders/Default/media/ecb4ca16-2b3e-42b4-abc6-89565b2c2c1e/BUilding%20AI%20applications%20with%20IBM%20Watson.png"
                     ></img>
                     
                     <img
