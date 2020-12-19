@@ -389,6 +389,17 @@ function ProfilePage() {
                         <img
                           alt="..."
                           className="img-raised"
+                          src= "https://content.screencast.com/users/Michalwnt/folders/Default/media/4d3e1eee-7b65-404b-9058-451dc2bc2e28/IBM%20Chatbot.png"
+                          style={{marginBottom:"10px"}}
+                        ></img>
+                        </Tilt>
+                        <span>Chatbot Preview - <a href="https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=us-south&integrationID=f8ca556b-c8f8-4715-a74f-1be5b4b2d8f4&serviceInstanceID=4d2801be-a925-4bd7-8cc6-5caa33cecb34">Link</a></span>
+                        </div>
+                        <div style={{marginBottom:"20px"}}>
+                        <Tilt className="Tilt" options={{ max : 25 }}  >
+                        <img
+                          alt="..."
+                          className="img-raised"
                           src= "https://content.screencast.com/users/Michalwnt/folders/Default/media/658cba11-c98f-49fd-afce-2d768ac65276/IBM%20Watson%20Discovery%20SC.png"
                           style={{marginBottom:"10px"}}
                         ></img>
