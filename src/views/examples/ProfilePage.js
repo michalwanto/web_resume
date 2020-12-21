@@ -485,6 +485,19 @@ function ProfilePage() {
                         </Tilt>
                         <span>SQL Queries 2</span>
                         </div>
+
+                        <div style={{marginBottom:"20px"}}>
+                        <Tilt className="Tilt" options={{ max : 25 }}  >
+                        <img
+                          alt="..."
+                          className="img-raised"
+                          src= "https://content.screencast.com/users/Michalwnt/folders/Default/media/c04fa3e4-9e80-475e-99aa-13201bc12d9f/Momentum%20Tilt%20Portfolio.png"
+                          style={{marginBottom:"10px"}}
+                        ></img>
+                        </Tilt>
+                        <span>Momentum Tilt Portfolio of Stocks in Restaurant Industry</span>
+                        </div>
+
                         <div style={{marginBottom:"20px"}}>
                       <a href="https://smart-brain-front-end1.herokuapp.com/">
                       <Tilt className="Tilt" options={{ max : 25 }}  >
@@ -510,7 +523,8 @@ function ProfilePage() {
                         </a>
                         <span> Basic web application the uses React, React Redux, Hooks, bootstrap card component, etc. <a href="https://michalwanto.github.io/robofriends/">https://michalwanto.github.io/robofriends/</a> </span>
                         </div>
-                        
+                       
+
                         
                         
                       </Col>
