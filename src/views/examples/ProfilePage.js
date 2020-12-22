@@ -539,6 +539,12 @@ function ProfilePage() {
                     <img
                       alt="..."
                       className="img-raised"
+                      src="https://content.screencast.com/users/Michalwnt/folders/Default/media/cd2f9472-f629-4c95-bdf4-e62d77ee2fed/The%20Future%20of%20Payment%20Technologies%20from%20Michigan%20Uni.png"
+                    ></img>
+                    
+                    <img
+                      alt="..."
+                      className="img-raised"
                       src="https://i.ibb.co/6PJQQKH/Data-Visualization-and-Communication-with-Tableau.png"
                     ></img>
                     <img
@@ -615,6 +621,12 @@ function ProfilePage() {
                       ></img>
                     </Col>
                     <Col md="6">
+                    <img
+                    alt="..."
+                    className="img-raised"
+                    src="https://content.screencast.com/users/Michalwnt/folders/Default/media/cd2f9472-f629-4c95-bdf4-e62d77ee2fed/The%20Future%20of%20Payment%20Technologies%20from%20Michigan%20Uni.png"
+                  ></img>
+                    
                     <img
                         alt="..."
                         className="img-raised"
