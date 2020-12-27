@@ -539,6 +539,11 @@ function ProfilePage() {
                     <img
                       alt="..."
                       className="img-raised"
+                      src="https://content.screencast.com/users/Michalwnt/folders/Default/media/2c5e63e9-e77c-4d5f-ba44-87cd463aa82f/Blockchain%20and%20Cryptocurrency%20Explained.png"
+                    ></img>
+                    <img
+                      alt="..."
+                      className="img-raised"
                       src="https://content.screencast.com/users/Michalwnt/folders/Default/media/cd2f9472-f629-4c95-bdf4-e62d77ee2fed/The%20Future%20of%20Payment%20Technologies%20from%20Michigan%20Uni.png"
                     ></img>
                     
@@ -626,6 +631,12 @@ function ProfilePage() {
                     className="img-raised"
                     src="https://content.screencast.com/users/Michalwnt/folders/Default/media/cd2f9472-f629-4c95-bdf4-e62d77ee2fed/The%20Future%20of%20Payment%20Technologies%20from%20Michigan%20Uni.png"
                   ></img>
+                  <img
+                    alt="raising capital univeristy of michigan"
+                    className="img-raised"
+                    src="https://content.screencast.com/users/Michalwnt/folders/Default/media/da309386-b8b3-4aa4-a597-03b2356fe80b/Raising%20Capital-credit%20tech-coin%20offering-crowdfunding.png"
+                  ></img>
+                  
                     
                     <img
                         alt="..."
