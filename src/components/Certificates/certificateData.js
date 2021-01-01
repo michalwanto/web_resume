@@ -124,6 +124,11 @@ export const CertificateDataCol2= [
         imgSrc:"https://i.ibb.co/2ZB84hQ/Future-Thinking.png"
     },
     {
+        alt:"Simulation Skills",
+        className:"img-raised",
+        imgSrc:"https://content.screencast.com/users/Michalwnt/folders/Default/media/38183795-cd27-4c99-8e40-e297c808da67/Simulation%20Skills.png"
+    },
+    {
         alt:"Exploring Data for Business Decision",
         className:"img-raised",
         imgSrc:"https://i.ibb.co/qjh2q47/Exploring-Data-for-Business-Decision.png"
