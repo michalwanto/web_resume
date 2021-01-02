@@ -40,6 +40,12 @@ export const CertificateDataCol1 = [
         imgSrc:"https://content.screencast.com/users/Michalwnt/folders/Default/media/ecb4ca16-2b3e-42b4-abc6-89565b2c2c1e/BUilding%20AI%20applications%20with%20IBM%20Watson.png"
     },
     {
+        alt:"Forecasting Skills",
+        className:"img-raised",
+        imgSrc:"https://content.screencast.com/users/Michalwnt/folders/Default/media/7d71b02a-3fa2-4f59-8c00-0d5f303070fe/Forecasting%20Skills.png"
+    },
+    
+    {
         alt:"Python and Statistics for Financial Analysis",
         className:"img-raised",
         imgSrc:"https://i.ibb.co/DgtbnC1/Python-and-Statistics-for-Financial-Analysis.png"
