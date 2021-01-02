@@ -1,5 +1,10 @@
 export const CertificateDataCol1 = [
     {
+        alt:"Data-driven Decision Making",
+        className:"img-raised",
+        imgSrc:"https://content.screencast.com/users/Michalwnt/folders/Default/media/7e54cce4-5cad-4445-abb8-8a8154c8a8b5/Data%20Driven%20Decision%20Making.png"
+    },
+    {
         alt:"Blockchain and Cryptocurrency Explained",
         className:"img-raised",
         imgSrc:"https://content.screencast.com/users/Michalwnt/folders/Default/media/2c5e63e9-e77c-4d5f-ba44-87cd463aa82f/Blockchain%20and%20Cryptocurrency%20Explained.png"
