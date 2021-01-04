@@ -44,6 +44,11 @@ export const CertificateDataCol1 = [
         className:"img-raised",
         imgSrc:"https://content.screencast.com/users/Michalwnt/folders/Default/media/7d71b02a-3fa2-4f59-8c00-0d5f303070fe/Forecasting%20Skills.png"
     },
+    {
+        alt:"Urgent Optimism",
+        className:"img-raised",
+        imgSrc:"https://content.screencast.com/users/Michalwnt/folders/Default/media/07c77d71-fa03-4bda-a603-60077ea405c5/Urgent%20Optimism.png"
+    },
     
     {
         alt:"Python and Statistics for Financial Analysis",
@@ -95,6 +100,11 @@ export const CertificateDataCol1 = [
 
 export const CertificateDataCol2= [
     {
+        alt:"Problem Solving with Excel PWC",
+        className:"img-raised",
+        imgSrc:"https://content.screencast.com/users/Michalwnt/folders/Default/media/b94709e9-f3cc-4a93-96da-099b8048dc87/Problem%20Solving%20with%20Excel%20PWC.png"
+    },
+    {
         alt:"Future of Technology",
         className:"img-raised",
         imgSrc:"https://content.screencast.com/users/Michalwnt/folders/Default/media/cd2f9472-f629-4c95-bdf4-e62d77ee2fed/The%20Future%20of%20Payment%20Technologies%20from%20Michigan%20Uni.png"
@@ -130,6 +140,11 @@ export const CertificateDataCol2= [
         imgSrc:"https://i.ibb.co/Nng4WVz/Data-Analysis-and-Visualization.png"
     },
     {
+        alt:"Exploring Data for Business Decision",
+        className:"img-raised",
+        imgSrc:"https://i.ibb.co/qjh2q47/Exploring-Data-for-Business-Decision.png"
+    },
+    {
         alt:"Future Thinking",
         className:"img-raised",
         imgSrc:"https://i.ibb.co/2ZB84hQ/Future-Thinking.png"
@@ -139,10 +154,12 @@ export const CertificateDataCol2= [
         className:"img-raised",
         imgSrc:"https://content.screencast.com/users/Michalwnt/folders/Default/media/38183795-cd27-4c99-8e40-e297c808da67/Simulation%20Skills.png"
     },
+    
+    
     {
-        alt:"Exploring Data for Business Decision",
+        alt:"Electric Power System",
         className:"img-raised",
-        imgSrc:"https://i.ibb.co/qjh2q47/Exploring-Data-for-Business-Decision.png"
+        imgSrc:"https://content.screencast.com/users/Michalwnt/folders/Default/media/b34f75ce-53fa-4397-bf20-62f03065b29b/Electric%20Power%20System.png"
     },
     {
         alt:"Complete React Development",
