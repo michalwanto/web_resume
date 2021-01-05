@@ -45,6 +45,11 @@ export const CertificateDataCol1 = [
         imgSrc:"https://content.screencast.com/users/Michalwnt/folders/Default/media/ecb4ca16-2b3e-42b4-abc6-89565b2c2c1e/BUilding%20AI%20applications%20with%20IBM%20Watson.png"
     },
     {
+        alt:"Business Strategy",
+        className:"img-raised",
+        imgSrc:"https://i.ibb.co/449zZ3q/Business-Strategy.png"
+    },
+    {
         alt:"Forecasting Skills",
         className:"img-raised",
         imgSrc:"https://content.screencast.com/users/Michalwnt/folders/Default/media/7d71b02a-3fa2-4f59-8c00-0d5f303070fe/Forecasting%20Skills.png"
@@ -54,17 +59,17 @@ export const CertificateDataCol1 = [
         className:"img-raised",
         imgSrc:"https://content.screencast.com/users/Michalwnt/folders/Default/media/07c77d71-fa03-4bda-a603-60077ea405c5/Urgent%20Optimism.png"
     },
+    {
+        alt:"Data Analysis and Visualization",
+        className:"img-raised",
+        imgSrc:"https://i.ibb.co/Nng4WVz/Data-Analysis-and-Visualization.png"
+    },
+    {
+        alt:"Natural Gas",
+        className:"img-raised",
+        imgSrc:" https://content.screencast.com/users/Michalwnt/folders/Default/media/65df369d-f637-49a2-b18b-ae7c0d655427/Natural%20Gas.png"
+    },
     
-    {
-        alt:"Python and Statistics for Financial Analysis",
-        className:"img-raised",
-        imgSrc:"https://i.ibb.co/DgtbnC1/Python-and-Statistics-for-Financial-Analysis.png"
-    },
-    {
-        alt:"Business Strategy",
-        className:"img-raised",
-        imgSrc:"https://i.ibb.co/449zZ3q/Business-Strategy.png"
-    },
     {
         alt:"Web Development Bootcamp",
         className:"img-raised",
@@ -145,9 +150,9 @@ export const CertificateDataCol2= [
         imgSrc:"https://content.screencast.com/users/Michalwnt/folders/Default/media/1a14984a-12f1-4052-a2fa-2251da53b0d2/Python%20for%20Data%20Science%20and%20AI.png"
     },
     {
-        alt:"Data Analysis and Visualization",
+        alt:"Python and Statistics for Financial Analysis",
         className:"img-raised",
-        imgSrc:"https://i.ibb.co/Nng4WVz/Data-Analysis-and-Visualization.png"
+        imgSrc:"https://i.ibb.co/DgtbnC1/Python-and-Statistics-for-Financial-Analysis.png"
     },
     {
         alt:"Exploring Data for Business Decision",
