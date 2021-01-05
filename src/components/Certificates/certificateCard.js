@@ -15,7 +15,7 @@ const useStyles = makeStyles({
     marginBottom:"30px",
     boxShadow: "0px 10px 25px 0px rgba(0, 0, 0, 0.3)",
     verticalAlign: "middle",
-    borderStyle: "none"
+    borderStyle: "none",
   },
   media: {
     minHeight:'343px',
@@ -27,13 +27,11 @@ export default function CertificateCard(props) {
 
   return (
     <Card className={classes.root}>
-      <CardActionArea>
         <CardMedia
           className={classes.media}
           image={props.imgSrc}
         />
        
-      </CardActionArea>
     </Card>
   );
 }

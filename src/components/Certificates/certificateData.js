@@ -1,5 +1,10 @@
 export const CertificateDataCol1 = [
     {
+        alt:"Financial Technology Specialization University of Michigan",
+        className:"img-raised",
+        imgSrc:"https://content.screencast.com/users/Michalwnt/folders/Default/media/41ccd562-5cb3-49dd-b1be-540bf44c78c8/Financial%20Technology%20Specialization.png"
+    },
+    {
         alt:"Data-driven Decision Making",
         className:"img-raised",
         imgSrc:"https://content.screencast.com/users/Michalwnt/folders/Default/media/7e54cce4-5cad-4445-abb8-8a8154c8a8b5/Data%20Driven%20Decision%20Making.png"
@@ -99,6 +104,11 @@ export const CertificateDataCol1 = [
 ]
 
 export const CertificateDataCol2= [
+    {
+        alt:"Future Thinking Specialization",
+        className:"img-raised",
+        imgSrc:"https://content.screencast.com/users/Michalwnt/folders/Default/media/8c988a5d-2ea3-49ab-ac33-ea74b48305ac/Future%20Thinking%20Specialization.png"
+    },
     {
         alt:"Problem Solving with Excel PWC",
         className:"img-raised",
