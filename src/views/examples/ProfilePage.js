@@ -501,6 +501,19 @@ function ProfilePage() {
                         </Tilt>
                         <span>Momentum Tilt Portfolio of Stocks in Restaurant Industry</span>
                         </div>
+                        <div style={{marginBottom:"20px"}}>
+                        <Tilt className="Tilt" options={{ max : 25 }}  >
+                        <img
+                          alt="..."
+                          className="img-raised"
+                          src= "https://content.screencast.com/users/Michalwnt/folders/Default/media/b6ec125a-8c9c-434e-ad3b-c5f35cbae125/Scenario%20Anlysis.png"
+                          style={{marginBottom:"10px"}}
+                        ></img>
+                        </Tilt>
+                        <span>Scenario Analysis - Excel What-if tool</span>
+                        </div>
+
+                        
 
                         <div style={{marginBottom:"20px"}}>
                       <a href="https://smart-brain-front-end1.herokuapp.com/">
