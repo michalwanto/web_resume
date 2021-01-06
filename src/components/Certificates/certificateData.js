@@ -5,6 +5,12 @@ export const CertificateDataCol1 = [
         imgSrc:"https://content.screencast.com/users/Michalwnt/folders/Default/media/41ccd562-5cb3-49dd-b1be-540bf44c78c8/Financial%20Technology%20Specialization.png"
     },
     {
+        alt:"Data Visualization with Advance Excel PwC",
+        className:"img-raised",
+        imgSrc:"https://content.screencast.com/users/Michalwnt/folders/Default/media/7e7ec71b-3195-4b5a-b76b-eafe14363faf/Data%20Visualization%20with%20advance%20Excel%20PwC.png"
+    },
+    
+    {
         alt:"Data-driven Decision Making",
         className:"img-raised",
         imgSrc:"https://content.screencast.com/users/Michalwnt/folders/Default/media/7e54cce4-5cad-4445-abb8-8a8154c8a8b5/Data%20Driven%20Decision%20Making.png"
