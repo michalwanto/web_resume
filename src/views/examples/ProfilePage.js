@@ -458,6 +458,18 @@ function ProfilePage() {
                       <img
                         alt="..."
                         className="img-raised"
+                        src= "https://content.screencast.com/users/Michalwnt/folders/Default/media/fa1dee5c-3939-4dea-b87e-726412c3176b/Solver.png"
+                        style={{marginBottom:"10px"}}
+                      ></img>
+                      </Tilt>
+                      <span> Excel Data Solver - To find the best incentives/projects to go forward based on certain budget amount. </span>
+                      </div>
+
+                      <div style={{marginBottom:"20px"}}>
+                      <Tilt className="Tilt" options={{ max : 25 }}  >
+                      <img
+                        alt="..."
+                        className="img-raised"
                         src= "https://content.screencast.com/users/Michalwnt/folders/Default/media/14a66e44-43f7-4df7-934b-356eee5cbdc7/Teradata%20Screenshot.png"
                         style={{marginBottom:"10px"}}
                       ></img>
