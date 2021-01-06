@@ -484,6 +484,20 @@ function ProfilePage() {
                       <img
                         alt="..."
                         className="img-raised"
+                        src= " https://content.screencast.com/users/Michalwnt/folders/Default/media/defa7323-fa5e-49e6-93d3-b731d2b7cb59/Gantt%20Chart%20Excel.png"
+                        style={{marginBottom:"10px"}}
+                      ></img>
+                      </Tilt>
+                      <span> Gantt Chart - Data Visualization - Excel </span>
+                      </div>
+
+                     
+
+                      <div style={{marginBottom:"20px"}}>
+                      <Tilt className="Tilt" options={{ max : 25 }}  >
+                      <img
+                        alt="..."
+                        className="img-raised"
                         src= "https://content.screencast.com/users/Michalwnt/folders/Default/media/14a66e44-43f7-4df7-934b-356eee5cbdc7/Teradata%20Screenshot.png"
                         style={{marginBottom:"10px"}}
                       ></img>
