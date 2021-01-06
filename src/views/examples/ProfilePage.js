@@ -438,7 +438,19 @@ function ProfilePage() {
                         style={{marginBottom:"10px"}}
                       ></img>
                       </Tilt>
-                      <span>Scenario Analysis using Scenario Manager - Excel What-if Tool - To see possible different scenarios of Revenue Growth Rate, Gross Margin, and SG&A Expenses (% of revenue) affecting Cost of Sales, Gross Profit and SG&A Expenses </span>
+                      <span>Scenario Analysis using Scenario Manager - Excel What-if Tool - To see possible different scenarios of Revenue Growth Rate, Gross Margin, and SG&A Expenses (% of revenue) affecting Cost of Sales, Gross Profit and SG&A Expenses. </span>
+                      </div>
+
+                      <div style={{marginBottom:"20px"}}>
+                      <Tilt className="Tilt" options={{ max : 25 }}  >
+                      <img
+                        alt="..."
+                        className="img-raised"
+                        src= "https://content.screencast.com/users/Michalwnt/folders/Default/media/4efd1ece-a9e5-4e51-95d5-4f09d5e83b56/Simulation%20Analysis.png"
+                        style={{marginBottom:"10px"}}
+                      ></img>
+                      </Tilt>
+                      <span>Simulation Analysis - To determine the probability of profit of a new project (in this case, new flight destination). </span>
                       </div>
 
                       <div style={{marginBottom:"20px"}}>
