@@ -465,6 +465,20 @@ function ProfilePage() {
                       <span> Excel Data Solver - To find the best incentives/projects to go forward based on certain budget amount. </span>
                       </div>
 
+                      
+
+                      <div style={{marginBottom:"20px"}}>
+                      <Tilt className="Tilt" options={{ max : 25 }}  >
+                      <img
+                        alt="..."
+                        className="img-raised"
+                        src= "https://content.screencast.com/users/Michalwnt/folders/Default/media/b876dbc3-a01b-431b-a21a-f65f4559e30e/Heatmap%20Excel.png"
+                        style={{marginBottom:"10px"}}
+                      ></img>
+                      </Tilt>
+                      <span> Heatmap using conditional formating Excel. </span>
+                      </div>
+
                       <div style={{marginBottom:"20px"}}>
                       <Tilt className="Tilt" options={{ max : 25 }}  >
                       <img
