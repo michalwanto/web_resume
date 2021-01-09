@@ -5,6 +5,12 @@ export const CertificateDataCol1 = [
         imgSrc:"https://content.screencast.com/users/Michalwnt/folders/Default/media/41ccd562-5cb3-49dd-b1be-540bf44c78c8/Financial%20Technology%20Specialization.png"
     },
     {
+        alt:"The Energy Specialization Univeristy of Buffalo",
+        className:"img-raised",
+        imgSrc:"https://content.screencast.com/users/Michalwnt/folders/Default/media/f2ee0c44-95d4-4b31-9cc5-f9fc76ed6f57/Energy%20Specialization.png"
+    },
+
+    {
         alt:"Data Visualization with Advance Excel PwC",
         className:"img-raised",
         imgSrc:"https://content.screencast.com/users/Michalwnt/folders/Default/media/7e7ec71b-3195-4b5a-b76b-eafe14363faf/Data%20Visualization%20with%20advance%20Excel%20PwC.png"
@@ -182,6 +188,17 @@ export const CertificateDataCol2= [
         className:"img-raised",
         imgSrc:"https://content.screencast.com/users/Michalwnt/folders/Default/media/b34f75ce-53fa-4397-bf20-62f03065b29b/Electric%20Power%20System.png"
     },
+    {
+        alt:"Safety in Utility Industry",
+        className:"img-raised",
+        imgSrc:"https://content.screencast.com/users/Michalwnt/folders/Default/media/9d520a8a-807a-4caf-8d15-3805cc7e62ee/Safety%20in%20Utility%20Industry.png"
+    },
+    {
+        alt:"Energy The Enterprise",
+        className:"img-raised",
+        imgSrc:"https://content.screencast.com/users/Michalwnt/folders/Default/media/e34b6f64-94e6-4e68-9ec6-45a74b2f7755/Energy%20-%20The%20Enterprise.png"
+    },
+    
     {
         alt:"Complete React Development",
         className:"img-raised",
