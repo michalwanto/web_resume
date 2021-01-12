@@ -36,7 +36,7 @@ export const ProjectDataCol1 = [
         alt:"SQL - Query2  ",
         title:"SQL - Query2 ",
         description:"Connecting all property data sources and coming up with the summary data",
-        image: "https://content.screencast.com/users/Michalwnt/folders/Default/media/b12570d1-cbe4-4ee9-834b-440c3cdfb97c/SQLquery3.png",
+        image: "https://content.screencast.com/users/Michalwnt/folders/Default/media/ecf83adf-2876-473a-8c5b-c2663b170146/SQLquery3.png",
     },
     
     {
