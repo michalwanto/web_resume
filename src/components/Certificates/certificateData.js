@@ -127,6 +127,11 @@ export const CertificateDataCol2= [
         imgSrc:"https://content.screencast.com/users/Michalwnt/folders/Default/media/8c988a5d-2ea3-49ab-ac33-ea74b48305ac/Future%20Thinking%20Specialization.png"
     },
     {
+        alt:"Effective Business Presentation",
+        className:"img-raised",
+        imgSrc:"https://content.screencast.com/users/Michalwnt/folders/Default/media/fa5948db-7bcc-4837-8df1-3338b9fa6f4c/Effective%20Business%20Presentation%20PwC.png"
+    },
+    {
         alt:"Problem Solving with Excel PWC",
         className:"img-raised",
         imgSrc:"https://content.screencast.com/users/Michalwnt/folders/Default/media/b94709e9-f3cc-4a93-96da-099b8048dc87/Problem%20Solving%20with%20Excel%20PWC.png"
