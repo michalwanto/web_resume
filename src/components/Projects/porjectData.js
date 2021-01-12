@@ -27,11 +27,18 @@ export const ProjectDataCol1 = [
         image:"https://content.screencast.com/users/Michalwnt/folders/Default/media/14a66e44-43f7-4df7-934b-356eee5cbdc7/Teradata%20Screenshot.png"
     },
     {
-        alt:"SQL - Queries  ",
-        title:"SQL - Queries ",
+        alt:"SQL - Query  ",
+        title:"SQL - Query ",
         description:"Some Queries to MySQL database",
         image: "https://content.screencast.com/users/Michalwnt/folders/Default/media/5528a8c6-b223-4428-bb7e-7baebade9626/SQL%20-%20Queries%20SC2.png",
     },
+    {
+        alt:"SQL - Query2  ",
+        title:"SQL - Query2 ",
+        description:"Connecting all property data sources and coming up with the summary data",
+        image: "https://content.screencast.com/users/Michalwnt/folders/Default/media/b12570d1-cbe4-4ee9-834b-440c3cdfb97c/SQLquery3.png",
+    },
+    
     {
         alt:"Predictive Model",
         title:"Python - Predictive Model",
