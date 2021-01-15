@@ -81,6 +81,12 @@ export const CertificateDataCol1 = [
         className:"img-raised",
         imgSrc:" https://content.screencast.com/users/Michalwnt/folders/Default/media/65df369d-f637-49a2-b18b-ae7c0d655427/Natural%20Gas.png"
     },
+    {
+        alt:"Digital Thread",
+        className:"img-raised",
+        imgSrc:" https://content.screencast.com/users/Michalwnt/folders/Default/media/b59a9adb-19e5-4dcb-a4c8-2a7aa5be7d79/Digital%20Thread%20.png"
+    },
+    
     
     {
         alt:"Web Development Bootcamp",
@@ -203,6 +209,13 @@ export const CertificateDataCol2= [
         className:"img-raised",
         imgSrc:"https://content.screencast.com/users/Michalwnt/folders/Default/media/e34b6f64-94e6-4e68-9ec6-45a74b2f7755/Energy%20-%20The%20Enterprise.png"
     },
+    {
+        alt:"Digital Manufacturing and Design",
+        className:"img-raised",
+        imgSrc:"https://content.screencast.com/users/Michalwnt/folders/Default/media/7afb9efa-55bb-464c-9eef-b138a662bddb/Digital%20Manufacturing%20and%20Design.png"
+    },
+
+    
     
     {
         alt:"Complete React Development",
