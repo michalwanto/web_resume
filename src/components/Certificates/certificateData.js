@@ -9,7 +9,17 @@ export const CertificateDataCol1 = [
         className:"img-raised",
         imgSrc:"https://content.screencast.com/users/Michalwnt/folders/Default/media/f2ee0c44-95d4-4b31-9cc5-f9fc76ed6f57/Energy%20Specialization.png"
     },
-
+    {
+        alt:"The Power of Machine Learning SAS",
+        className:"img-raised",
+        imgSrc:"https://content.screencast.com/users/Michalwnt/folders/Default/media/1a98f3ad-8a6b-4e77-818b-cb2955bd2b21/The%20power%20of%20machin%20learning%20SAS.png"
+    },
+    {
+        alt:"Launching Machine Learning",
+        className:"img-raised",
+        imgSrc:"https://content.screencast.com/users/Michalwnt/folders/Default/media/0028293d-26a7-4681-a886-5721cb0b604c/Launching%20Machine%20Learning%20SAS.png"
+    },
+    
     {
         alt:"Data Visualization with Advance Excel PwC",
         className:"img-raised",
