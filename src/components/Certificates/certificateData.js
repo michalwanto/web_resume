@@ -158,6 +158,12 @@ export const CertificateDataCol2= [
         imgSrc:"https://content.screencast.com/users/Michalwnt/folders/Default/media/40e14dd9-8ad5-442a-9d56-7196e5b974b1/Programming%20for%20Everybody%20-%20Python.png"
     },
     {
+        alt:"Python Data Structure Uni Michigan",
+        className:"img-raised",
+        imgSrc:"https://content.screencast.com/users/Michalwnt/folders/Default/media/b21d75fe-60c9-4aa1-bdf4-6143b279a764/Python%20Data%20Structure.png"
+    },
+    
+    {
         alt:"Future of Technology",
         className:"img-raised",
         imgSrc:"https://content.screencast.com/users/Michalwnt/folders/Default/media/cd2f9472-f629-4c95-bdf4-e62d77ee2fed/The%20Future%20of%20Payment%20Technologies%20from%20Michigan%20Uni.png"
