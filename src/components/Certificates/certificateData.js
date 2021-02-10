@@ -143,6 +143,11 @@ export const CertificateDataCol2= [
         imgSrc:"https://content.screencast.com/users/Michalwnt/folders/Default/media/8c988a5d-2ea3-49ab-ac33-ea74b48305ac/Future%20Thinking%20Specialization.png"
     },
     {
+        alt:"Using Python to Access Web Data",
+        className:"img-raised",
+        imgSrc:"https://content.screencast.com/users/Michalwnt/folders/Default/media/f9297ca4-b7ab-42db-b843-6cfa56dc8ba6/Using%20Python%20to%20Access%20Web%20Data.png"
+    },
+    {
         alt:"Effective Business Presentation",
         className:"img-raised",
         imgSrc:"https://content.screencast.com/users/Michalwnt/folders/Default/media/fa5948db-7bcc-4837-8df1-3338b9fa6f4c/Effective%20Business%20Presentation%20PwC.png"

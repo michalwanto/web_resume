@@ -3,6 +3,13 @@ import React from "react";
 
 export const ProjectDataCol1 = [
     {
+        alt:"Project Power BI",
+        title:"Power BI - Dashboard",
+        description:"KPIs and Charts",
+        image:"https://content.screencast.com/users/Michalwnt/folders/Default/media/ce65b942-1247-4811-8667-875b5b1f8ef4/ReportPowerBI%20Project.png",
+        link: "https://app.powerbi.com/reportEmbed?reportId=101f9b66-98bb-44ba-94b6-939f3bf25534&autoAuth=true&ctid=99b27c4c-69fe-467e-886e-e2014e05d147&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLW5vcnRoLWV1cm9wZS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D"
+    },
+    {
         alt:"Financial Technology Specialization University of Michigan",
         title:"Power BI - Dashboard",
         description:"Dashboard that shows a high-level picture of Budgets, Sales, Top Products, Variance by Categories, etc.",
@@ -99,6 +106,14 @@ export const ProjectDataCol1 = [
 ]
 
 export const ProjectDataCol2= [
+    
+    {
+        alt:"Power BI - Dashboard",
+        title:"Power BI - Dashboard 2",
+        description:"Power BI Report ",
+        image:" https://content.screencast.com/users/Michalwnt/folders/Default/media/4ca01b18-c4e9-47b3-aef3-78f972843018/ReportPowerBI%20Project2.png",
+        link:"https://app.powerbi.com/reportEmbed?reportId=101f9b66-98bb-44ba-94b6-939f3bf25534&autoAuth=true&ctid=99b27c4c-69fe-467e-886e-e2014e05d147&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLW5vcnRoLWV1cm9wZS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D"
+    },
     {
         alt:"Tableau Public",
         title:"Tableau Public",
