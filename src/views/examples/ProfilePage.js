@@ -256,7 +256,7 @@ function ProfilePage() {
                       </Col>
                       <Col md="6">
                       <h4 style={{marginBottom:"2px"}}>GOFLEET INTERNATIONAL</h4>
-                      <h5 style={{marginBottom:"2px",color:"grey"}}>Management Trainee</h5>
+                      <h5 style={{marginBottom:"2px",color:"grey"}}>Business and Data Analyst Intern</h5>
                       <p style={{marginBottom:"2px",fontSize:"13px"}}>Oct 2018 - Sep 2019</p>
                       <p style={{fontSize:"12px"}}>Dubai, UAE</p>
                       <span>Worked closely with the CEO, conducted a firm's Target Operating Model(TOM)for its underground airport project, and prepared top management presentations for its clients, Dnata, Emirates Group, and Dubai Airport.
