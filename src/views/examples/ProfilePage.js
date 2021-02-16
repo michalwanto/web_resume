@@ -191,7 +191,7 @@ function ProfilePage() {
                         <h5 style={{marginBottom:"2px",color:"grey"}}>University</h5>
                         <h5 style={{marginBottom:"2px",color:"grey", fontSize:"14px"}}>Top 20 in The World : FORBES INTERNATIONAL B-SCHOOLS (2013-15)</h5>
                         <p style={{fontSize:"14px"}}>2017 - Present</p>
-                        <span>Bachelor of Business Administration (Dean's Lister) - Three cities program; one year in Singapore, one year in Dubai, and two years in Sydney. Coursework included Cost Accounting, Digital Marketing, Employability and Practitioner Skill, Financial Market and Institution, Financial Statement Analysis, Foundations of Entrepreneurship, Human Resource Management, Business Law, Decision Making, Project Management, Australia Business Environment, Branding and Communication, Strategic Management, Business Disruptive Technology, Business English Writing, Business Oral Communication, Computer Skills, Corporate Finance, Critical Thinking, Decision Science, Emotional Intelligence, Financial Accounting, Leadership, Macroeconomics, Marketing, Mathematics, Operations Management, Organisational Behaviour, Principles of Management, Regional Immersion Project, Research Methodology, Statistics, Sustainability & Corporate Social Responsibility, World Cultures. Average GPA of 4.0
+                        <span>Bachelor of Business Administration (Deans List) - Three cities program; one year in Singapore, one year in Dubai, and two years in Sydney. Coursework included Cost Accounting, Digital Marketing, Employability and Practitioner Skill, Financial Market and Institution, Financial Statement Analysis, Foundations of Entrepreneurship, Human Resource Management, Business Law, Decision Making, Project Management, Australia Business Environment, Branding and Communication, Strategic Management, Business Disruptive Technology, Business English Writing, Business Oral Communication, Computer Skills, Corporate Finance, Critical Thinking, Decision Science, Emotional Intelligence, Financial Accounting, Leadership, Macroeconomics, Marketing, Mathematics, Operations Management, Organisational Behaviour, Principles of Management, Regional Immersion Project, Research Methodology, Statistics, Sustainability & Corporate Social Responsibility, World Cultures. Average GPA of 4.0
                         </span>
                       </Col>
                       
@@ -221,7 +221,7 @@ function ProfilePage() {
                       <Col style={{marginBottom:"50px"}} md="6">
                         <h4 style={{marginBottom:"2px"}}>IFASHION GROUP </h4>
                         <h5 style={{marginBottom:"2px",color:"grey"}}>Finance Intern</h5>
-                        <p style={{marginBottom:"2px",fontSize:"13px"}}>May 2018 - Sep 2018</p>
+                        <p style={{marginBottom:"2px",fontSize:"13px"}}>Sep 2017 - Aug 2018</p>
                         <p style={{fontSize:"12px"}}>Singapore</p>
                         <span>Worked closely with CFO in managing and analyzing the newest and past financial data. Interrogated the company's financial performance and identifying trends. Ensure accurate financial reporting through bank reconciliation, account receivables & payables reconciliation(through Xero accounting platform), ad-hoc entries, and finalizing the exported data in Excel using macros, pivot tables, V-lookup, conditional formatting, etc. 
                         </span>
@@ -257,7 +257,7 @@ function ProfilePage() {
                       <Col md="6">
                       <h4 style={{marginBottom:"2px"}}>GOFLEET INTERNATIONAL</h4>
                       <h5 style={{marginBottom:"2px",color:"grey"}}>Management Trainee</h5>
-                      <p style={{marginBottom:"2px",fontSize:"13px"}}>May 2019 - Sep 2019</p>
+                      <p style={{marginBottom:"2px",fontSize:"13px"}}>Oct 2018 - Sep 2019</p>
                       <p style={{fontSize:"12px"}}>Dubai, UAE</p>
                       <span>Worked closely with the CEO, conducted a firm's Target Operating Model(TOM)for its underground airport project, and prepared top management presentations for its clients, Dnata, Emirates Group, and Dubai Airport.
                       </span>
