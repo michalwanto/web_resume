@@ -1,5 +1,10 @@
 export const CertificateDataCol1 = [
     {
+        alt:"Technical Support Fundamental Google",
+        className:"img-raised",
+        imgSrc:"https://content.screencast.com/users/Michalwnt/folders/Default/media/306af612-4f8f-498b-9821-1c7376a870c8/Technical%20Support%20Fundamentals%20Google%20.png"
+    },
+    {
         alt:"Financial Technology Specialization University of Michigan",
         className:"img-raised",
         imgSrc:"https://content.screencast.com/users/Michalwnt/folders/Default/media/41ccd562-5cb3-49dd-b1be-540bf44c78c8/Financial%20Technology%20Specialization.png"
