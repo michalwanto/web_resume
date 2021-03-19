@@ -1,4 +1,10 @@
 export const CertificateDataCol1 = [
+
+    {
+        alt:"Building strategic innovative organization",
+        className:"img-raised",
+        imgSrc:"https://content.screencast.com/users/Michalwnt/folders/Default/media/62f78adf-802e-48f6-a72f-5d340c2ef747/Building%20strategic%20innovation%20organization.png"
+    },
     {
         alt:"Technical Support Fundamental Google",
         className:"img-raised",
