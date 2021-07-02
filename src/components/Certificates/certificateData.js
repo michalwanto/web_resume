@@ -1,9 +1,9 @@
 export const CertificateDataCol1 = [
-
+    
     {
         alt:"AWS Cloud Technical Essential",
         className:"img-raised",
-        imgSrc:"https://content.screencast.com/users/Michalwnt/folders/Default/media/5b7a2345-4b74-4b86-9d0d-74aee7aabb8e/Amazon%20Cloud%20Technical%20Essenstial.png"
+        imgSrc:"https://previews.dropbox.com/p/thumb/ABOgj8FFObsprUuIGAK9B2ZdP1FvpDjS6MHlFBgN_4b1-WD3_uO5RrMd_voMFWd1wx1NKwFEkMO_93viaDOdair7AxyEeLFvldEcBmgTXHBjfMucwFTJR-V1kV3vLh-PELCgWrBciMdQZMD6-oUKPdOv2T2aKKB5H-_tUutBo2MiUdmQ72RhmWprJdxVrpVgPUIvKRIheGkZk3v5vz11q4SLD2w1f77tUANWdIrjohMBHoFQyFOo5IcRUQVWkQVetCXa4PD5QTuPBYccwu_WpQRIBAFXLUlu2YF8VxwBfr8ZP9TpOaT7vqE6oEWGIDqZ09BQDjT20Yv4JRR4FpN-I6rHcNW7THVXWhBqPyQjznx8Zg/p.png?fv_content=true&size_mode=5"
     }
 ,
     {
@@ -154,6 +154,11 @@ export const CertificateDataCol1 = [
 ]
 
 export const CertificateDataCol2= [
+    {
+        alt:"Databricks Apache Spark SQL",
+        className:"img-raised",
+        imgSrc:"https://previews.dropbox.com/p/thumb/ABMzkgrvIhasJXW9Hj4lR7hM6-H3L9jkBnyT3sKvRZT-hYC0k_XRGypdP-P0hGBymUbWszvcx1hlmNCtUWwUsqnbkHSbY1Qlmbs3iOKD_MTNsoGe7YVtZ3d7T-zt1zC4YjzJXO6Gx5xgutVgKUo62aD9puBR9Re6_saHV_9d9HxGseTuAb4R3qcA1lhiVBT2_F_b_2qYxeXwftNbfuBd3vn5pRvCqhYsw1DTRNBN4vUfgUuyL8NYB6kgCSJvhMGrRaVz1VAvVVto35aKlXtAN4RrpsUvuhTJHEP4cOPOibvbn9eIXBd1tbxRYwicE4S13rPZTBA120KNg2n-bTEADHxplOgovfg1IaoN5ZGHQHgHuw/p.png?fv_content=true&size_mode=5"
+    },
     {
         alt:"Future Thinking Specialization",
         className:"img-raised",
