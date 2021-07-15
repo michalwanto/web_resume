@@ -39,18 +39,10 @@ function ProfilePageHeader() {
             <img alt="..." src="https://i.ibb.co/pL6P4t4/Visa-pict.jpg"></img>
           </div>
           <h3 className="title">Michal Wanto</h3>
-          <p className="category">Financial, Bussiness and Data Analyst</p>
+          <p className="category">Data and Software Engineer</p>
           <div className="content">
            
-            <div className="social-description">
             
-            <h2>5+</h2>
-              <p>Companies Financial Data managed</p>
-            </div>
-            <div className="social-description">
-              <h2>$20M+</h2>
-              <p>Worth of Telematics Data handled</p>
-            </div>
           </div>
         </Container>
       </div>

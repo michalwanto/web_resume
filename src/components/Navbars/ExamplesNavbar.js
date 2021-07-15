@@ -65,7 +65,7 @@ function ExamplesNavbar() {
               <span className="button-bar"></span>
             </DropdownToggle>
             <DropdownMenu aria-labelledby="navbarDropdown">
-            <a style={{color:"black", marginLeft:"10px", textAlign:"center"}} href="../../assets/files/resume/Resume.pdf" download>
+            <a style={{color:"black", marginLeft:"10px", textAlign:"center"}} href="src/assets/files/resume/Michal_Wanto.pdf" download>
                  Download Resume
               </a>
             </DropdownMenu>

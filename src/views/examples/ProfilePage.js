@@ -92,7 +92,7 @@ function ProfilePage() {
             </div>
             <h3 className="title">About me</h3>
             <h5 className="description">
-            A Business, Finance, and Tech enthusiast. Love reading books and listening to audiobooks. Passionate about planning, analyzing,  strategizing and solve complex problems. 
+            A tech enthusiast. Love reading books and listening to audiobooks. Passionate in analyzing and solve complex problems. 
             </h5>
             <Row>
               <Col className="ml-auto mr-auto" md="6">
