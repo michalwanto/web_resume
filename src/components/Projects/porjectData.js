@@ -6,7 +6,7 @@ export const ProjectDataCol1 = [
         alt:"UI/UX",
         title:"UI/UX",
         description:"Property Investment Dashboard",
-        image:"https://previews.dropbox.com/p/thumb/ABN5eyYyLwkeB2zjW9hn2EL3NO5LWpKB6eXUpbdNMhXsAqGOkljOjJz7eeYwDHHmR7-Sfm-u0h8S3Xb0KtETCupmjVOMFxzfqyIkHL60gTElj6L-f3nV_5RWrd2fc_IQE2UfjbbODbZpd_KGWvK47nPNvq-XENuplKSTjV_tdsBPyxGrN8QZ5TySquGqhkFtKNUHAXqE2MitKIti6O42Hf8XevLV2qEjrzharjf_5f-GBFLhkBz1p-4tgQVxPzVMpwnPzKOLKIhLWuZc_laWE5wxQGGzU-hC7LJJ3MQl5dB0QfmwCjQ-EaVAxJDUkEM3cS5NpDOIbX7nUh42_YSTP23m9wbQER4xZ4IHIYu2KsY7BQ/p.png?fv_content=true&size_mode=5",
+        image:"https://content.screencast.com/users/Michalwnt/folders/Default/media/f6de1db7-e879-459d-b27c-6cb447d32881/Screen%20Shot%202021-07-16%20at%2011.42.58%20am.png",
     },
     {
         alt:"Project Power BI",
@@ -116,7 +116,7 @@ export const ProjectDataCol2= [
         alt:"UI/UX",
         title:"UI/UX",
         description:"Property Investment Dashboard - Sentiment Page",
-        image:"https://previews.dropbox.com/p/thumb/ABP1TK9c-BEsBAFj61D9wqKNWXxkgkGMomSY4-EhWf_ZjlFsP-OAJV7GjX94iI6ewI3QYcbcPq2NVsLBPUecsz5F-Xd8Z6nz7UyBOO4PgWadEAl6JJRo3i3Xbr9co8T2ERjXfM4pzjVLLKP31zzQtFPi9Fn4qRvLEvNQzRy56kMLn2EWC-jhm3lhKcL6eyBfg8I-GvpAEfmimEDiPw2Z-q1E7N93lUZ5GNmE-jw7yekkGfQYtlo6YnCVOBXddDVgUqYfci0TQ32du4qOx5QCI9TU28B6_Tz_HuAtlCy0QX9ggXoF9BvD0go2fnYYCq1s_hU32wPQlRZC367LHbjDlGJVb9taSjZNSOBTGIG5lNi44Q/p.png?fv_content=true&size_mode=5",
+        image:"https://content.screencast.com/users/Michalwnt/folders/Default/media/5484d093-7807-4866-a1d1-ea135c336f4c/Screen%20Shot%202021-07-16%20at%2011.22.01%20am.png",
     },
     {
         alt:"Power BI - Dashboard",

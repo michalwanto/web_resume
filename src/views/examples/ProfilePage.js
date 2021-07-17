@@ -38,7 +38,7 @@ import ProjectCard from "../../components/Projects/projectCard"
 
 
 function ProfilePage() {
-  const [pills, setPills] = React.useState("2");
+  const [pills, setPills] = React.useState("1");
   React.useEffect(() => {
     document.body.classList.add("profile-page");
     document.body.classList.add("sidebar-collapse");
