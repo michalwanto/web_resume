@@ -62,7 +62,7 @@ function ProfilePage() {
                 Connect
               </Button>
               <UncontrolledTooltip delay={0} target="tooltip340339232">
-                Follow me on LinkedIn
+                Connect on LinkedIn
               </UncontrolledTooltip>
               <Button
                 className="btn-round btn-icon"
@@ -171,11 +171,13 @@ function ProfilePage() {
                       </Col>
                       <Col  md="6">
                         <h4 style={{marginBottom:"2px"}}>STANFORD UNIVERISTY </h4>
-                        <h5 style={{marginBottom:"2px",color:"grey"}}>Professional Program </h5>
-                        <p>April 2021 - Present</p>
+                        <h5 style={{marginBottom:"2px",color:"grey"}}>Artificial Intelligence Professional Program</h5>
+                        <p style={{fontSize:"14px"}}>April 2021 - Present</p>
                         <span>Artificial Intelligence <br></br></span>
-                        <span>Coursework : Machine Learning</span>
-                        
+                        <ul >
+                        <li>	Machine Learning (Supervised Learning, Unsupervised Learning, Deep Learning)</li>
+                        <li>Natural Language Processing</li>
+                      </ul>  
                       </Col>
                   <Col md="5">  
                   <img
@@ -187,11 +189,10 @@ function ProfilePage() {
                 </Col>
                 <Col md="6">
                   <h4 style={{marginBottom:"2px"}}>SP JAIN SCHOOL OF GLOBAL MANAGEMENT</h4>
-                  <h5 style={{marginBottom:"4px",color:"grey"}}>Undergraduate</h5>
-                  <h5 style={{marginBottom:"2px",color:"grey", fontSize:"14px"}}>Bachelor of Business Administration</h5>
-                  <p style={{fontSize:"14px"}}>August 2017 - April 2021</p>
+                  <h5 style={{marginBottom:"4px",color:"grey"}}>Bachelor of Business Administration</h5>
+                  <p style={{fontSize:"14px",marginBottom:"2px"}}>August 2017 - April 2021</p>
                   <p style={{fontSize:"14px"}}>Dean's List with GPA of 4.0/4.3 </p>
-                  <span>Top 20 in The World : FORBES INTERNATIONAL B-SCHOOLS (2013-15). Three cities program; one year in Singapore, one year in Dubai, and two years in Sydney. Coursework included Cost Accounting, Digital Marketing, Employability and Practitioner Skill, Financial Market and Institution, Financial Statement Analysis, Foundations of Entrepreneurship, Human Resource Management, Business Law, Decision Making, Project Management, Australia Business Environment, Branding and Communication, Strategic Management, Business Disruptive Technology, Business English Writing, Business Oral Communication, Computer Skills, Corporate Finance, Critical Thinking, Decision Science, Emotional Intelligence, Financial Accounting, Leadership, Macroeconomics, Marketing, Mathematics, Operations Management, Organisational Behaviour, Principles of Management, Regional Immersion Project, Research Methodology, Statistics, Sustainability & Corporate Social Responsibility, World Cultures. 
+                  <span>Top 20 in The World : FORBES INTERNATIONAL B-SCHOOLS (2013-15). <br></br>Three cities program; one year in Singapore, one year in Dubai, and two years in Sydney. Coursework included Cost Accounting, Digital Marketing, Employability and Practitioner Skill, Financial Market and Institution, Financial Statement Analysis, Foundations of Entrepreneurship, Human Resource Management, Business Law, Decision Making, Project Management, Australia Business Environment, Branding and Communication, Strategic Management, Business Disruptive Technology, Business English Writing, Business Oral Communication, Computer Skills, Corporate Finance, Critical Thinking, Decision Science, Emotional Intelligence, Financial Accounting, Leadership, Macroeconomics, Marketing, Mathematics, Operations Management, Organisational Behaviour, Principles of Management, Regional Immersion Project, Research Methodology, Statistics, Sustainability & Corporate Social Responsibility, World Cultures. 
                   
                   </span>
                 </Col>    
@@ -207,8 +208,8 @@ function ProfilePage() {
                       <Col  md="6">
                         <h4 style={{marginBottom:"2px"}}>SEKOLAH GLOBAL INDO-ASIA </h4>
                         <h5 style={{marginBottom:"2px",color:"grey"}}>High School</h5>
-                        <p>2010-2016</p>
-                        <span>O-Level and A-Level courses. Coursework included Mathematics, Business Studies, Economics, Global Perspective, Bahasa Indonesia, English. </span>
+                        <p style={{fontSize:"14px"}}>2010-2016</p>
+                        <span> General Certificate of Education (GCE): IGCSE and A-Level courses. Coursework included Mathematics, Business Studies, Economics, Global Perspective, Bahasa Indonesia, English. </span>
                       </Col>
                     </Row>
                     <Row className="collections">
