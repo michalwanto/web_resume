@@ -165,7 +165,7 @@ function ProfilePage() {
                         <img
                           alt="..."
                           className="img-raised"
-                          src={require("/Users/michalwanto/Desktop/Resume/web-resume/src/assets/img/StanfordEngineering.jpeg")}
+                          src={require("assets/img/StanfordEngineering.jpeg")}
                           style={{aligntItems:"centre", width:"200px",maxHeight:"400px", marginLeft: "70px",marginBottom: "70px",marginTop: "30px"}}
                         ></img>
                       </Col>
@@ -227,7 +227,7 @@ function ProfilePage() {
                         <img
                           alt="..."
                           className="img-raised"
-                          src={require("/Users/michalwanto/Desktop/Resume/web-resume/src/assets/img/Dashdot.png")}
+                          src={require("assets/img/Dashdot.png")}
                           style={{aligntItems:"centre", width:"200px",maxHeight:"400px", marginLeft: "70px", paddingTop:"80px",paddingBottom:"80px",paddingLeft:"20px",paddingRight:"20px"}}
                         ></img>
                       </Col>
@@ -254,7 +254,7 @@ function ProfilePage() {
                         <img
                           alt="..."
                           className="img-raised"
-                          src={require("/Users/michalwanto/Desktop/Resume/web-resume/src/assets/img/aiventures.png")}
+                          src={require("assets/img/aiventures.png")}
                           style={{aligntItems:"centre", width:"200px",maxHeight:"400px", marginLeft: "70px"}}
                         ></img>
                       </Col>
@@ -278,7 +278,7 @@ function ProfilePage() {
                         <img
                           alt="..."
                           className="img-raised"
-                          src={require("/Users/michalwanto/Desktop/Resume/web-resume/src/assets/img/AI_AU_LOGO.jpeg")}
+                          src={require("assets/img/AI_AU_LOGO.jpeg")}
                           style={{aligntItems:"centre", width:"200px",maxHeight:"400px", marginLeft: "70px"}}
                         ></img>
                       </Col>
