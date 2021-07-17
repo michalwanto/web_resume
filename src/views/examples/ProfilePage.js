@@ -38,7 +38,7 @@ import ProjectCard from "../../components/Projects/projectCard"
 
 
 function ProfilePage() {
-  const [pills, setPills] = React.useState("1");
+  const [pills, setPills] = React.useState("2");
   React.useEffect(() => {
     document.body.classList.add("profile-page");
     document.body.classList.add("sidebar-collapse");
@@ -228,7 +228,7 @@ function ProfilePage() {
                           alt="..."
                           className="img-raised"
                           src={require("/Users/michalwanto/Desktop/Resume/web-resume/src/assets/img/Dashdot.png")}
-                          style={{aligntItems:"centre", width:"200px",maxHeight:"400px", marginLeft: "70px", paddingTop:"30px",paddingBottom:"30px",paddingLeft:"20px",paddingRight:"20px"}}
+                          style={{aligntItems:"centre", width:"200px",maxHeight:"400px", marginLeft: "70px", paddingTop:"80px",paddingBottom:"80px",paddingLeft:"20px",paddingRight:"20px"}}
                         ></img>
                       </Col>
                       <Col style={{marginBottom:"50px"}} md="6">
