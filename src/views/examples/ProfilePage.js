@@ -161,7 +161,42 @@ function ProfilePage() {
                   <h3 className="ml-auto mr-auto">Education</h3>
                   <hr style={{width:"70vw"}}></hr>
                   <Row style={{marginBottom:"50px"}} className="collections">
-                      <Col md="5">
+                  <Col md="5">
+                        <img
+                          alt="..."
+                          className="img-raised"
+                          src={require("/Users/michalwanto/Desktop/Resume/web-resume/src/assets/img/StanfordEngineering.jpeg")}
+                          style={{aligntItems:"centre", width:"200px",maxHeight:"400px", marginLeft: "70px"}}
+                        ></img>
+                      </Col>
+                      <Col  md="6">
+                        <h4 style={{marginBottom:"2px"}}>STANFORD UNIVERISTY </h4>
+                        <h5 style={{marginBottom:"2px",color:"grey"}}>Professional Program </h5>
+                        <p>April 2021 - Present</p>
+                        <span>Artificial Intelligence <br></br></span>
+                        <span>Coursework : Machine Learning</span>
+                        
+                      </Col>
+                  <Col md="5">  
+                  <img
+                    alt="..."
+                    className="img-raised"
+                    src={require("assets/img/SPJAIN.png")}
+                    style={{aligntItems:"centre", width:"200px",maxHeight:"400px", marginLeft: "70px"}}
+                  ></img>
+                </Col>
+                <Col md="6">
+                  <h4 style={{marginBottom:"2px"}}>SP JAIN SCHOOL OF GLOBAL MANAGEMENT</h4>
+                  <h5 style={{marginBottom:"4px",color:"grey"}}>Undergraduate</h5>
+                  <h5 style={{marginBottom:"2px",color:"grey", fontSize:"14px"}}>Bachelor of Business Administration</h5>
+                  <p style={{fontSize:"14px"}}>August 2017 - April 2021</p>
+                  <p style={{fontSize:"14px"}}>Dean's List with GPA of 4.0/4.3 </p>
+                  <span>Top 20 in The World : FORBES INTERNATIONAL B-SCHOOLS (2013-15). Three cities program; one year in Singapore, one year in Dubai, and two years in Sydney. Coursework included Cost Accounting, Digital Marketing, Employability and Practitioner Skill, Financial Market and Institution, Financial Statement Analysis, Foundations of Entrepreneurship, Human Resource Management, Business Law, Decision Making, Project Management, Australia Business Environment, Branding and Communication, Strategic Management, Business Disruptive Technology, Business English Writing, Business Oral Communication, Computer Skills, Corporate Finance, Critical Thinking, Decision Science, Emotional Intelligence, Financial Accounting, Leadership, Macroeconomics, Marketing, Mathematics, Operations Management, Organisational Behaviour, Principles of Management, Regional Immersion Project, Research Methodology, Statistics, Sustainability & Corporate Social Responsibility, World Cultures. 
+                  
+                  </span>
+                </Col>    
+                  
+                  <Col md="5">
                         <img
                           alt="..."
                           className="img-raised"
@@ -173,27 +208,11 @@ function ProfilePage() {
                         <h4 style={{marginBottom:"2px"}}>SEKOLAH GLOBAL INDO-ASIA </h4>
                         <h5 style={{marginBottom:"2px",color:"grey"}}>High School</h5>
                         <p>2010-2016</p>
-                        <span>O-Level and A-Level courses. Coursework included Mathematics, Business Studies, Economics, Global Perspective, Bahasa Indonesia, English. Average Transcript of 85.</span>
+                        <span>O-Level and A-Level courses. Coursework included Mathematics, Business Studies, Economics, Global Perspective, Bahasa Indonesia, English. </span>
                       </Col>
                     </Row>
                     <Row className="collections">
-                    <Col md="5">
-                    
-                        <img
-                          alt="..."
-                          className="img-raised"
-                          src={require("assets/img/SPJAIN.png")}
-                          style={{aligntItems:"centre", width:"200px",maxHeight:"400px", marginLeft: "70px"}}
-                        ></img>
-                      </Col>
-                      <Col md="6">
-                        <h4 style={{marginBottom:"2px"}}>SP JAIN SCHOOL OF GLOBAL MANAGEMENT</h4>
-                        <h5 style={{marginBottom:"2px",color:"grey"}}>University</h5>
-                        <h5 style={{marginBottom:"2px",color:"grey", fontSize:"14px"}}>Top 20 in The World : FORBES INTERNATIONAL B-SCHOOLS (2013-15)</h5>
-                        <p style={{fontSize:"14px"}}>2017 - Present</p>
-                        <span>Bachelor of Business Administration (Deans List) - Three cities program; one year in Singapore, one year in Dubai, and two years in Sydney. Coursework included Cost Accounting, Digital Marketing, Employability and Practitioner Skill, Financial Market and Institution, Financial Statement Analysis, Foundations of Entrepreneurship, Human Resource Management, Business Law, Decision Making, Project Management, Australia Business Environment, Branding and Communication, Strategic Management, Business Disruptive Technology, Business English Writing, Business Oral Communication, Computer Skills, Corporate Finance, Critical Thinking, Decision Science, Emotional Intelligence, Financial Accounting, Leadership, Macroeconomics, Marketing, Mathematics, Operations Management, Organisational Behaviour, Principles of Management, Regional Immersion Project, Research Methodology, Statistics, Sustainability & Corporate Social Responsibility, World Cultures. Average GPA of 4.0
-                        </span>
-                      </Col>
+        
                       
                     </Row>
                   </Col>
