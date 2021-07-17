@@ -166,7 +166,7 @@ function ProfilePage() {
                           alt="..."
                           className="img-raised"
                           src={require("/Users/michalwanto/Desktop/Resume/web-resume/src/assets/img/StanfordEngineering.jpeg")}
-                          style={{aligntItems:"centre", width:"200px",maxHeight:"400px", marginLeft: "70px"}}
+                          style={{aligntItems:"centre", width:"200px",maxHeight:"400px", marginLeft: "70px",marginBottom: "70px",marginTop: "30px"}}
                         ></img>
                       </Col>
                       <Col  md="6">
@@ -184,7 +184,7 @@ function ProfilePage() {
                     alt="..."
                     className="img-raised"
                     src={require("assets/img/SPJAIN.png")}
-                    style={{aligntItems:"centre", width:"200px",maxHeight:"400px", marginLeft: "70px"}}
+                    style={{aligntItems:"centre", width:"200px",maxHeight:"400px", marginLeft: "70px",marginBottom: "70px",marginTop: "30px"}}
                   ></img>
                 </Col>
                 <Col md="6">
@@ -192,7 +192,7 @@ function ProfilePage() {
                   <h5 style={{marginBottom:"4px",color:"grey"}}>Bachelor of Business Administration</h5>
                   <p style={{fontSize:"14px",marginBottom:"2px"}}>August 2017 - April 2021</p>
                   <p style={{fontSize:"14px"}}>Dean's List with GPA of 4.0/4.3 </p>
-                  <span>Top 20 in The World : FORBES INTERNATIONAL B-SCHOOLS (2013-15). <br></br>Three cities program; one year in Singapore, one year in Dubai, and two years in Sydney. Coursework included Cost Accounting, Digital Marketing, Employability and Practitioner Skill, Financial Market and Institution, Financial Statement Analysis, Foundations of Entrepreneurship, Human Resource Management, Business Law, Decision Making, Project Management, Australia Business Environment, Branding and Communication, Strategic Management, Business Disruptive Technology, Business English Writing, Business Oral Communication, Computer Skills, Corporate Finance, Critical Thinking, Decision Science, Emotional Intelligence, Financial Accounting, Leadership, Macroeconomics, Marketing, Mathematics, Operations Management, Organisational Behaviour, Principles of Management, Regional Immersion Project, Research Methodology, Statistics, Sustainability & Corporate Social Responsibility, World Cultures. 
+                  <span >Top 20 in The World : FORBES INTERNATIONAL B-SCHOOLS (2013-15). <br></br>Three cities program; one year in Singapore, one year in Dubai, and two years in Sydney. Coursework included Cost Accounting, Digital Marketing, Employability and Practitioner Skill, Financial Market and Institution, Financial Statement Analysis, Foundations of Entrepreneurship, Human Resource Management, Business Law, Decision Making, Project Management, Australia Business Environment, Branding and Communication, Strategic Management, Business Disruptive Technology, Business English Writing, Business Oral Communication, Computer Skills, Corporate Finance, Critical Thinking, Decision Science, Emotional Intelligence, Financial Accounting, Leadership, Macroeconomics, Marketing, Mathematics, Operations Management, Organisational Behaviour, Principles of Management, Regional Immersion Project, Research Methodology, Statistics, Sustainability & Corporate Social Responsibility, World Cultures. 
                   
                   </span>
                 </Col>    
@@ -202,11 +202,11 @@ function ProfilePage() {
                           alt="..."
                           className="img-raised"
                           src="https://primarylibrary.sgiaedu.org/template/default/assets/images/Logo.png"
-                          style={{aligntItems:"centre", width:"200px",maxHeight:"400px", marginLeft: "70px"}}
+                          style={{aligntItems:"centre", width:"200px",maxHeight:"400px", marginLeft: "70px",marginBottom: "70px",marginTop: "70px"}}
                         ></img>
                       </Col>
                       <Col  md="6">
-                        <h4 style={{marginBottom:"2px"}}>SEKOLAH GLOBAL INDO-ASIA </h4>
+                        <h4 style={{marginBottom:"2px", marginTop: "70px"}}>SEKOLAH GLOBAL INDO-ASIA </h4>
                         <h5 style={{marginBottom:"2px",color:"grey"}}>High School</h5>
                         <p style={{fontSize:"14px"}}>2010-2016</p>
                         <span> General Certificate of Education (GCE): IGCSE and A-Level courses. Coursework included Mathematics, Business Studies, Economics, Global Perspective, Bahasa Indonesia, English. </span>
