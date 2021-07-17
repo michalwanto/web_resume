@@ -38,7 +38,7 @@ import ProjectCard from "../../components/Projects/projectCard"
 
 
 function ProfilePage() {
-  const [pills, setPills] = React.useState("1");
+  const [pills, setPills] = React.useState("2");
   React.useEffect(() => {
     document.body.classList.add("profile-page");
     document.body.classList.add("sidebar-collapse");
@@ -223,84 +223,163 @@ function ProfilePage() {
                   <h3 className="ml-auto mr-auto">Experiences</h3>
                   <hr style={{width:"70vw"}}></hr>
                   <Row className="collections">
-                      <Col md="5">
+                    <Col md="5">
+                        <img
+                          alt="..."
+                          className="img-raised"
+                          src={require("/Users/michalwanto/Desktop/Resume/web-resume/src/assets/img/Dashdot.png")}
+                          style={{aligntItems:"centre", width:"200px",maxHeight:"400px", marginLeft: "70px", paddingTop:"30px",paddingBottom:"30px",paddingLeft:"20px",paddingRight:"20px"}}
+                        ></img>
+                      </Col>
+                      <Col style={{marginBottom:"50px"}} md="6">
+                        <h4 style={{marginBottom:"2px"}}>Dashdot</h4>
+                        <h5 style={{marginBottom:"2px",color:"grey"}}>Data and Software Engineer</h5>
+                        <p style={{marginBottom:"2px",fontSize:"13px"}}>May 2021 – Present</p>
+                        <p style={{fontSize:"12px"}}>Sydney, Australia</p>
+                        <ul>
+                        <li>(Delta Architecture in Databricks , Data Warehousing in Snowflake, AWS and Azure microservices)</li>
+                        <li>Built End-to-end company’s data pipelines and Robotic Process Automations from scratch.</li>
+                        <li>(Stream & Auto-ingest in Databricks and Power Automate for RPA).</li>
+                        <li>Managed company’s data warehousing and governance through Snowflake and Databricks.</li>
+                        <li>ETL (extract, transform and load data).</li>
+                        <li>Designed, integrated, streamlined company’s fully customised Business Intelligence dashboards in Tableau. </li>
+                        <li>Designed Company’s cross-platform UI/UX (Wireframe & UI Designs in Figma).</li>
+                        <li>Developed Company’s End-to-end Web Application; Property Investment Platform (React,Redux, GraphQL, Azure Microservices; CosmosDB, App Services, Azure Repos,DevSecOps CI/CD, Funtion Apps, API Connections, Key Vaults, Traffic Manager, etc).</li>
+                        </ul>
+                      </Col>
+                    </Row>
+                    <hr></hr>
+                  <Row className="collections">
+                    <Col md="5">
+                        <img
+                          alt="..."
+                          className="img-raised"
+                          src={require("/Users/michalwanto/Desktop/Resume/web-resume/src/assets/img/aiventures.png")}
+                          style={{aligntItems:"centre", width:"200px",maxHeight:"400px", marginLeft: "70px"}}
+                        ></img>
+                      </Col>
+                      <Col style={{marginBottom:"50px"}} md="6">
+                        <h4 style={{marginBottom:"2px"}}>AI VENTURES</h4>
+                        <h5 style={{marginBottom:"2px",color:"grey"}}>Data Analyst Intern</h5>
+                        <p style={{marginBottom:"2px",fontSize:"13px"}}>Feb 2021 – May 2021</p>
+                        <p style={{fontSize:"12px"}}>Sydney, Australia</p>
+                        <ul>
+                        <li>Contributed to ETL processes (SQL Querying using Azure Data Studio).</li>
+                        <li>Created data visualization, reports, and dashboards for Project and Program Managers.</li>
+                        <li>Initiated Digital Transformation processes; streamlining repetitive tasks using Power.</li>
+                        Automate, Phantom, Approval, and Power Apps
+                        <li>Set up the company’s DevOps infrastructure (Microsoft Azure).</li>
+                        </ul>
+                      </Col>
+                    </Row>
+                    <hr></hr>
+                  <Row className="collections">
+                    <Col md="5">
+                        <img
+                          alt="..."
+                          className="img-raised"
+                          src={require("/Users/michalwanto/Desktop/Resume/web-resume/src/assets/img/AI_AU_LOGO.jpeg")}
+                          style={{aligntItems:"centre", width:"200px",maxHeight:"400px", marginLeft: "70px"}}
+                        ></img>
+                      </Col>
+                      <Col style={{marginBottom:"50px"}} md="6">
+                        <h4 style={{marginBottom:"2px"}}>AI AUSTRALIA</h4>
+                        <h5 style={{marginBottom:"2px",color:"grey"}}>Program Manager Intern</h5>
+                        <p style={{marginBottom:"2px",fontSize:"13px"}}>Feb 2021 – May 2021</p>
+                        <p style={{fontSize:"12px"}}>Sydney, Australia</p>
+                        <ul>
+                        <li>Worked closely with the Program Managers and Project Sponsors in designing and
+                        managing in-house business analytics.</li>
+                        <li>Planned, organized, and aligned project goals, resources, and deliverables through cascading KPIs.</li>
+                        <li>Created In-house Mission Control business application – Integrating KPIs in Power BI,
+                        Power Apps, Planner, Forms, and Project through Power Automate.</li>
+                        <li>Conducted internal audits, identifying trends, determining system improvements, and restructuring business workflow processes.</li>
+                        <li>Provide, communicate, and implement strategies and tactics to address competition,improvements in technology or marketing tools, and potential expansion opportunities
+                        through M&A deals.</li>
+                        </ul>
+                        
+                      </Col>
+                      
+                    </Row>
+                    <hr></hr>
+                  <Row className="collections">
+                      
+                    <Col md="5">
+                    
+                    <img
+                      alt="..."
+                      className="img-raised"
+                      src={require("assets/img/GOFLEETINT.png")}
+                      style={{aligntItems:"centre", width:"200px",maxHeight:"400px", marginLeft: "70px"}}
+                    ></img>
+                    <img
+                      alt="..."
+                      className="img-raised"
+                      src={require("assets/img/with_gofleetteam.JPG")}
+                      style={{aligntItems:"centre", width:"200px",maxHeight:"400px", marginLeft: "70px",marginBottom:"5px"}}
+                    ></img>
+                    <p style={{fontSize:"12px",marginLeft: "70px"}}>Sheraton Grand Hotel, Dubai, UAE</p>
+                  </Col>
+                  <Col md="6">
+                  <h4 style={{marginBottom:"2px"}}>GOFLEET INTERNATIONAL</h4>
+                  <h5 style={{marginBottom:"2px",color:"grey"}}>Management Trainee</h5>
+                  <p style={{marginBottom:"2px",fontSize:"13px"}}>Jan 2019 – Sep 2019</p>
+                  <p style={{fontSize:"12px"}}>Dubai, United Arab Emirates</p>
+                  <ul>
+                        <li>Worked closely with the CEO in preparing business presentations for its clients, Dnata,Emirates Group, and Dubai Airport.</li>
+                        <li>Developed project plans and optimization strategies.</li>
+                        <li>Monitor deliverables and ensuring timely completion of projects (meeting milestones), and performed weekly and monthly reviews, and analyzed project progress from operational metrics.</li>
+                        <li> Conducted related research to support strategic and business planning within the various departments and discovering areas for improvement.</li>
+                        <li> Conducted $1M worth of primary and secondary market research on the feasibility and viability of electric bikes in Dubai as a delivery mode of transportation in the F&B sector.</li>
+                        <li>Redesigning the company's profile deck, website UI/UX, and brochures.</li>
+                        </ul>
+                        <h5 style={{marginTop:"40px",marginBottom:"2px",color:"grey"}}>Business and Data Analyst Intern</h5>
+                        <p style={{marginBottom:"2px",fontSize:"13px"}}>Oct 2018 – Jan 2019</p>
+                        <p style={{fontSize:"12px"}}>Dubai, United Arab Emirates</p>
+                        <ul>
+                        <li>Collaborated with Data Analysts and Senior Engineers in managing and analyzing $20M+ worth of the vast amount of telematics data.</li>
+                        <li>Gathered and organized business requirements from clients.</li>
+                        <li>Designed SPAP (Structured Pyramid Analysis Plan), SMART goals, and hypothesis.</li>
+                        <li>Queried data from the data warehouse (SQL querying).</li>
+                        <li>Applied data modeling techniques and designed workflow into a process map.</li>
+                        <li>Analyzed data and created Data Visualizations (charts and dashboards) such as assets utilization matrix, fuel consumption matrix, vehicles idling time, ROI, etc. for the company's clients(Power BI & Tableau). </li>
+                        <li>System Integration Testing, to ensure seamless integration and detect failures.</li>
+                        <li>Data Quality Check</li>
+                        <li>Engaged and maintained a relationship with internal and external stakeholders.</li>
+                        <li>Business Intelligence Reporting</li>
+                        <li>Performed as a bridge between technical and non-technical stakeholders</li>
+                          </ul>
+                  </Col>
+                    </Row>
+                    <hr></hr>
+                    <Row className="collections">
+                    <Col md="5">
                         <img
                           alt="..."
                           className="img-raised"
                           src={require("assets/img/IFASHIONGROUP.png")}
                           style={{aligntItems:"centre", width:"200px",maxHeight:"400px", marginLeft: "70px"}}
                         ></img>
-                        <img
-                          alt="..."
-                          className="img-raised"
-                          src="https://i.ibb.co/8XSHc8Z/with-Leon.jpg"
-                          style={{aligntItems:"centre", width:"200px",maxHeight:"400px", marginLeft: "70px",marginBottom:"5px"}}
-                        ></img>
-                        <p style={{fontSize:"12px",marginLeft: "70px"}}>15 Shaw Road, Singapore</p>
                       </Col>
                       <Col style={{marginBottom:"50px"}} md="6">
                         <h4 style={{marginBottom:"2px"}}>IFASHION GROUP </h4>
-                        <h5 style={{marginBottom:"2px",color:"grey"}}>Finance Intern</h5>
+                        <h5 style={{marginBottom:"2px",color:"grey"}}>Financial Analyst Intern</h5>
                         <p style={{marginBottom:"2px",fontSize:"13px"}}>Sep 2017 - Aug 2018</p>
-                        <p style={{fontSize:"12px"}}>Singapore</p>
-                        <span>Worked closely with CFO in managing and analyzing the newest and past financial data. Interrogated the company's financial performance and identifying trends. Ensure accurate financial reporting through bank reconciliation, account receivables & payables reconciliation(through Xero accounting platform), ad-hoc entries, and finalizing the exported data in Excel using macros, pivot tables, V-lookup, conditional formatting, etc. 
-                        </span>
-                        <br></br>
-                        <br></br>
-                        <span >Worked closely with the finance team, forming FP&A, consulted with the management team to develop long-term commercial plan, evaluated financial performance by comparing and analyzing actual results with plans and forecasts, aided in the capital budgeting and expenditure planning processes. Suggested budgets and improvements based on insights acquired. Explored different investment opportunities. Performed market research, data mining, and valuation comps. Developed financial models and financial forecast. Developed initiatives and policies that may improve financial growth. Guided the cost analysis process by establishing and enforcing new policies and procedures. Conducted Comparable Company Analysis. Prepared reports which include key metrics, financial result , variance analysis.  Presented insights to the senior management of the company and its subsidiaries companies that are operating across Southeast Asian countries (Indonesia, Vietnam, Thailand, Malaysia, Laos, and Singapore). 
- 
-                        </span>
-                        <br></br>
-                        <br></br>
-                        <span >Managed $10M+ worth of Financial and Inventories Data of company’s subsidiary companies, Dressabelle(Women Fashion), Invade(Office Space Provider), Red Republics(Event Organiser), and Megafash(Retail). Gathered missing data, cleansed and analyzed data. Designed models, charts, diagrams, dashboards(using Excel & Power BI), and presenting key metrics and recommendations to the CFO.
-                        </span>
-                      </Col>
-                    </Row>
-                    <hr></hr>
-                    <Row className="collections">
-                    <Col md="5">
-                    
-                        <img
-                          alt="..."
-                          className="img-raised"
-                          src={require("assets/img/GOFLEETINT.png")}
-                          style={{aligntItems:"centre", width:"200px",maxHeight:"400px", marginLeft: "70px"}}
-                        ></img>
-                        <img
-                          alt="..."
-                          className="img-raised"
-                          src={require("assets/img/with_gofleetteam.JPG")}
-                          style={{aligntItems:"centre", width:"200px",maxHeight:"400px", marginLeft: "70px",marginBottom:"5px"}}
-                        ></img>
-                        <p style={{fontSize:"12px",marginLeft: "70px"}}>Sheraton Grand Hotel, Dubai, UAE</p>
-                      </Col>
-                      <Col md="6">
-                      <h4 style={{marginBottom:"2px"}}>GOFLEET INTERNATIONAL</h4>
-                      <h5 style={{marginBottom:"2px",color:"grey"}}>Business and Data Analyst Intern</h5>
-                      <p style={{marginBottom:"2px",fontSize:"13px"}}>Oct 2018 - Sep 2019</p>
-                      <p style={{fontSize:"12px"}}>Dubai, UAE</p>
-                      <span>Worked closely with the CEO, conducted a firm's Target Operating Model(TOM)for its underground airport project, and prepared top management presentations for its clients, Dnata, Emirates Group, and Dubai Airport.
-                      </span>
-                      <br/><br/>
-                      <span>
-                      I have worked with data analysts, engineers, and project teams in managing $20M+ worth of the vast amount of telematics data. Gathered requirements from clients. Applied data modelling techniques and designed workflow into a process map (using Visio).  Investigated the data by assigning formulas, sorting, filtering, formatting, and transmuted them into charts, diagrams, and dashboards such as assets utilization matrix, fuel consumption matrix, vehicles idling time, ROI, etc. Follow by UAT(user acceptance testing) for the company's clients, Dnata and Emirates Group. 
-
-                      </span>
-                      <br/><br/>
-                      <span>
-                      Team up with senior engineers in scheduling project operational tasks by managing and assigning competing resources and priorities for a range of tasks to meet targeted dates and cost-efficiency benchmarks. Prepared controls and improved procedures, formulated charts, utilized management tools like Gantt chart to monitor deliverables and ensured timely completion of projects (meeting milestones), and performed weekly and monthly reviews of current processes. I have also conducted an insightful ad hoc analyses to investigate ongoing or one-time operational issues and inform project progress across stakeholders.
-                      </span>
-                      <br/><br/>
-                      <span>
-                      Worked together with the project manager to determine business objectives. Evaluated business processes. Performed requirements analysis. Designed workflow charts and diagrams of product integration and product introduction (Visio)processes. Conducted related research to support strategic and business planning within the various departments and programs of the client group. Discovering areas for improvement. Developed project plans, lead ongoing reviews of business processes and developed optimization strategies, ensuring solutions meet business needs and requirements. Present insights and plans to cross-functional team members, management and other stakeholders for the company's Dubai Airport Underground Project.
-                      </span>
-                      <br/><br/>
-                      <span>
-                      I have also conducted primary and secondary market research on the feasibility and viability of electric bikes in Dubai as a delivery mode of transportation in the F&B sector. Interpreted, evaluated and interrelated research data and developed integrated business analyses and projections for possibilities of incorporation into strategic decision-making; these include coming up with entry strategy, competitive market analysis, tactics, functional strategies, business strategies, and corporate strategies suggestions to the internal stakeholders.
-                      </span>
-                      <br/><br/>
-                      <span>
-                      Redesigned the company's profile deck, website UI/UX, and brochures. Arranged Excel and PowerPoint trainings for the junior team. Involved in hiring, preparing tests, and selecting new potential candidates alongside the HR manager and the CEO.</span>
+                        <p style={{fontSize:"12px"}}>15 Shaw Road, Singapore</p>
+                        <ul>
+                        <li>Worked closely with the CFO in managing and analyzing the newest and past financial data.</li>
+                        <li>Managed $10M+ worth of Financial and Inventories Data of its subsidiary companies.</li>
+                        <li>Built Financial Modeli, Dashboards, Periodic Reports on the company's Financial Performance.</li>
+                        <li>Ensured accurate financial reporting through bank reconciliation, account receivables and payables reconciliations (using Xero accounting platform), G/L and B/S reconciliations.</li>
+                        <li>Ad-hoc entries, FP&A. </li>
+                        <li>Worked with the management team to develop a long-term commercial plan.</li>
+                        <li>Tracked the company's financial performance against plan.</li>
+                        <li>Performed capital budgeting and expenditure planning.</li>
+                        <li>Provided analytical, forecasting, reporting and project support to senior management.</li>
+                        <li>Conducted Comparable Company Analysis.</li>
+                        <li>Assisted senior management make tactical and strategic decisions by providing periodic reports, which include financial key metrics and variance reporting.</li>
+                        <li>Explored and suggested different investment opportunities.</li>
+                        </ul>
                       </Col>
                       
                     </Row>
